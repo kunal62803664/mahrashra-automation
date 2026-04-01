@@ -1,4 +1,4 @@
-import { automationState } from "../../index.js";
+import { automationState } from "../../api/index.js";
 import { chetPaymentStatus } from "../paymentServices.js"
 import { log } from "./logConfig.js";
 import { FILE_PATH } from "./uploadConfig.js";
