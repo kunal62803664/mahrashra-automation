@@ -5,7 +5,6 @@
  */
 import * as cheerio from 'cheerio';
 import { log } from './config/logConfig.js';
-import { Transaction } from './models/transaction.js';
 import { updateTransactionInExcel } from './config/uploadConfig.js';
 
 

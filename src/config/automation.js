@@ -20,7 +20,8 @@ export async function runAutomation() {
     }
 
     // ✅ Read Excel
-    const workbook = XLSX.readFile(FILE_PATH);
+    const workbook = XLSX.read(req.file.buffer, { type: "buffer" });
+    // const workbook = XLSX.readFile(FILE_PATH);
     const sheetName = workbook.SheetNames[0];
     const sheet = workbook.Sheets[sheetName];
     const transactions = XLSX.utils.sheet_to_json(sheet, { defval: "" });
