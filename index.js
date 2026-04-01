@@ -7,10 +7,10 @@ import path from 'path';
 import fs from 'fs';
 import session from "express-session";
 import XLSX from "xlsx";
-import { chetPaymentStatus, payment } from "../src/paymentServices.js";
-import { log } from "../src/config/logConfig.js";
-import { upload } from "../src/config/uploadConfig.js";
-import { runAutomation } from "../src/config/automation.js";
+import { chetPaymentStatus, payment } from "./src/paymentServices.js";
+import { log } from "./src/config/logConfig.js";
+import { upload } from "./src/config/uploadConfig.js";
+import { runAutomation } from "./src/config/automation.js";
 dotenv.config({
     path: process.pkg ? path.join(path.dirname(process.execPath), '.env') : '.env'
 });
@@ -196,8 +196,7 @@ app.get("/transactions", authMiddleware, async (req, res) => {
         const { page = 1, limit = 20, search = "", TransactionID, date } = req.query;
 
         // ✅ Read Excel file
-        const workbook = XLSX.read(req.file.buffer, { type: "buffer" });
-        // const workbook = XLSX.readFile(FILE_PATH);
+        const workbook = XLSX.readFile(FILE_PATH);
         const sheet = workbook.Sheets[workbook.SheetNames[0]];
         let data = XLSX.utils.sheet_to_json(sheet, { defval: "" });
 
@@ -297,8 +296,7 @@ app.put("/transactions/:id", authMiddleware, async (req, res) => {
         const updates = req.body; // e.g., { Status: "Success", Amount: 500 }
 
         // ✅ Read Excel
-        const workbook = XLSX.read(req.file.buffer, { type: "buffer" });
-        // const workbook = XLSX.readFile(FILE_PATH);
+        const workbook = XLSX.readFile(FILE_PATH);
         const sheetName = workbook.SheetNames[0];
         const sheet = workbook.Sheets[sheetName];
         const data = XLSX.utils.sheet_to_json(sheet, { defval: "" });
@@ -334,22 +332,17 @@ app.put("/transactions/:id", authMiddleware, async (req, res) => {
 });
 
 
-
-
 app.get("/", (req, res) => {
-    res.sendFile(path.join(__dirname, "../public/index.html"));
+    res.send("Hello Express on Vercel!");
 });
 
 // -------------------- SERVER --------------------
-// app.listen(PORT, () => {
-//     log(`Server running on http://localhost:${PORT}`);
-// });
+app.listen(PORT, () => {
+    log(`Server running on http://localhost:${PORT}`);
+});
 
 // Keep console open when running as EXE
-// if (process.pkg) {
-//     console.log("Press CTRL+C to exit");
-//     setInterval(() => { }, 1000); // prevents immediate exit if server crashes
-// }
-
-
-export default app;
+if (process.pkg) {
+    console.log("Press CTRL+C to exit");
+    setInterval(() => { }, 1000); // prevents immediate exit if server crashes
+}

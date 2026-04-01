@@ -1,4 +1,4 @@
-import { automationState } from "../../api/index.js";
+import { automationState } from "../../index.js";
 import { chetPaymentStatus } from "../paymentServices.js"
 import { log } from "./logConfig.js";
 import { FILE_PATH } from "./uploadConfig.js";
@@ -20,8 +20,7 @@ export async function runAutomation() {
     }
 
     // ✅ Read Excel
-    const workbook = XLSX.read(req.file.buffer, { type: "buffer" });
-    // const workbook = XLSX.readFile(FILE_PATH);
+    const workbook = XLSX.readFile(FILE_PATH);
     const sheetName = workbook.SheetNames[0];
     const sheet = workbook.Sheets[sheetName];
     const transactions = XLSX.utils.sheet_to_json(sheet, { defval: "" });
