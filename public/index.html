@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Admin Dashboard</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: 'Inter', sans-serif;
+    }
+
+    body {
+      background: #f4f6f8;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    header {
+      background: #007bff;
+      color: #fff;
+      padding: 15px 30px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    header h1 {
+      font-size: 1.5rem;
+    }
+
+    header button {
+      padding: 10px 20px;
+      font-size: 1rem;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      background: #fff;
+      color: #007bff;
+      font-weight: 600;
+      transition: 0.3s;
+      margin-left: 10px;
+    }
+
+    header button:hover {
+      background: #e6e6e6;
+    }
+
+    #automationStatus {
+      margin-left: 15px;
+      font-weight: 600;
+      font-size: 0.95rem;
+      color: #fff;
+    }
+
+    main {
+      padding: 20px 30px;
+      flex: 1;
+      overflow: auto;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: #fff;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    }
+
+    th,
+    td {
+      padding: 12px 15px;
+      text-align: left;
+      border-bottom: 1px solid #eee;
+    }
+
+    th {
+      background: #f0f0f0;
+      font-weight: 600;
+      text-transform: uppercase;
+      font-size: 0.85rem;
+      color: #555;
+    }
+
+    tr:last-child td {
+      border-bottom: none;
+    }
+
+    input,
+    select {
+      padding: 6px 8px;
+      width: 100%;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      font-size: 0.9rem;
+    }
+
+    .update-btn {
+      padding: 6px 12px;
+      background: #28a745;
+      color: #fff;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-weight: 600;
+      transition: 0.3s;
+    }
+
+    .update-btn:hover {
+      background: #1e7e34;
+    }
+
+    .login-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background: #f4f6f8;
+    }
+
+    .login-box {
+      background: #fff;
+      padding: 40px 30px;
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+      width: 100%;
+      max-width: 400px;
+    }
+
+    .login-box h2 {
+      margin-bottom: 25px;
+      color: #333;
+      text-align: center;
+    }
+
+    .login-box input {
+      width: 100%;
+      margin-bottom: 15px;
+      padding: 12px;
+      font-size: 15px;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+    }
+
+    .login-box button {
+      width: 100%;
+      padding: 12px;
+      background: #007bff;
+      color: #fff;
+      border: none;
+      border-radius: 6px;
+      font-size: 16px;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+
+    .login-box button:hover {
+      background: #0056b3;
+    }
+
+    .loading {
+      text-align: center;
+      padding: 15px;
+      color: #007bff;
+      font-weight: 600;
+    }
+
+    .pagination {
+      margin-top: 15px;
+      display: flex;
+      justify-content: flex-start;
+      gap: 10px;
+      overflow-y: auto;
+    }
+
+    .pagination button {
+      padding: 6px 12px;
+      border: 1px solid #007bff;
+      background: #fff;
+      color: #007bff;
+      border-radius: 4px;
+      cursor: pointer;
+      font-weight: 600;
+    }
+
+    .pagination button.active {
+      background: #007bff;
+      color: #fff;
+    }
+
+    .pagination button:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+
+    /* Toolbar Layout */
+    .toolbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 15px;
+      margin-bottom: 20px;
+    }
+
+    .toolbar h2 {
+      color: #333;
+      font-weight: 600;
+    }
+
+    /* Filters Section */
+    .filters {
+      display: flex;
+      gap: 10px;
+      width: 70%;
+      align-items: center;
+    }
+
+    /* Inputs */
+    .filters input {
+      padding: 10px 12px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      font-size: 14px;
+      min-width: 180px;
+      transition: 0.2s;
+    }
+
+    .filters input:focus {
+      outline: none;
+      border-color: #007bff;
+      box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.15);
+    }
+
+    /* Buttons */
+    .btn {
+      padding: 10px 16px;
+      border: none;
+      border-radius: 6px;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: 0.25s;
+    }
+
+    .btn.primary {
+      background: #007bff;
+      color: #fff;
+    }
+
+    .btn.primary:hover {
+      background: #0056b3;
+    }
+
+    .btn.success {
+      background: #28a745;
+      color: #fff;
+    }
+
+    .btn.success:hover {
+      background: #1e7e34;
+    }
+
+    @media (max-width: 768px) {
+      .toolbar {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .filters {
+        width: 100%;
+      }
+
+      .filters input {
+        flex: 1;
+        min-width: 100%;
+      }
+
+      .btn {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <!-- LOGIN -->
+  <div id="loginSection" class="login-container">
+    <div class="login-box">
+      <h2>Admin Login</h2>
+      <input type="text" id="username" placeholder="Username" required>
+      <input type="password" id="password" placeholder="Password" required>
+      <button id="loginBtn">Login</button>
+    </div>
+  </div>
+
+  <!-- DASHBOARD -->
+  <div id="dashboardSection" style="display:none; height:100vh; flex-direction:column;">
+    <header>
+      <h1>MAHARASTRA :- Admin Dashboard</h1>
+      <div>
+        <button id="refreshBtn">Refresh</button>
+        <button id="deleteAllBtn" style="background:#dc3545; color: white;">Delete All</button>
+        <button id="toggleAutomation">Start Automation</button>
+        <span id="automationSpinner" style="display:none; margin-left:10px;">⏳ Running...</span>
+        <span id="automationStatus">Stopped</span>
+      </div>
+    </header>
+    <main>
+      <div class="toolbar">
+        <h2>Transactions</h2>
+        <div class="filters">
+          <input type="text" id="searchInput" placeholder="Search (Account / Operator / Status)">
+
+          <button class="btn primary" onclick="applyFilters()">Apply</button>
+          <button class="btn success" onclick="downloadExcel()">Download Excel</button>
+          <button class="btn primary" id="openUploadModal">Upload Excel</button>
+        </div>
+      </div>
+
+      <div class="loading" id="loadingText">Loading transactions...</div>
+      <table id="transactionsTable" style="display:none;">
+        <thead>
+          <tr>
+            <th>TransactionID</th>
+            <th>AccountNo</th>
+            <th>Operator</th>
+            <th>Amount</th>
+            <th>Debit</th>
+            <th>Comm</th>
+            <th>Status</th>
+            <th>Checked</th>
+            <th>API</th>
+            <!-- <th>DateTime</th> -->
+            <th>Action</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+      <div class="pagination" id="pagination"></div>
+    </main>
+  </div>
+
+  <!-- Excel Upload Modal -->
+  <div id="uploadModal" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; 
+    background: rgba(0,0,0,0.5); justify-content:center; align-items:center; z-index:1000;">
+    <div style="background:#fff; padding:20px; border-radius:12px; width:90%; max-width:600px; position:relative;">
+      <h2>Upload Transactions Excel</h2>
+      <button id="closeUploadModal"
+        style="position:absolute; top:10px; right:15px; font-size:18px; background:none; border:none; cursor:pointer;">&times;</button>
+
+      <input type="file" id="modalExcelFile" accept=".xlsx,.xls" style="margin-top:15px;">
+      <button class="btn primary" id="modalUploadBtn" style="margin-top:10px;">Upload</button>
+
+      <progress id="modalUploadProgress" value="0" max="100"
+        style="width:100%; margin-top:10px; display:none;"></progress>
+      <div id="modalUploadStatus" style="margin-top:10px; font-weight:600; color:#007bff;"></div>
+
+      <h3 style="margin-top:15px;">Preview / Errors</h3>
+      <div id="modalPreview"
+        style="max-height:200px; overflow:auto; background:#f8f8f8; padding:10px; border-radius:8px; font-size:14px;">
+      </div>
+    </div>
+  </div>
+
+  <script>
+    let currentPage = 1;
+    const limit = 10;
+    let totalPages = 1;
+    let search = '';
+    let automationRunning = false;
+
+    const toggleBtn = document.getElementById('toggleAutomation');
+    const statusSpan = document.getElementById('automationStatus');
+
+    // LOGIN
+    document.getElementById('loginBtn').addEventListener('click', async () => {
+      const username = document.getElementById('username').value;
+      const password = document.getElementById('password').value;
+      try {
+        const res = await fetch('/login', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ username, password }) });
+        if (res.ok) {
+          document.getElementById('loginSection').style.display = 'none';
+          document.getElementById('dashboardSection').style.display = 'flex';
+          loadAutomationStatus();
+          loadTransactions(currentPage);
+        } else { alert('Invalid login'); }
+      } catch (err) { alert('Login error: ' + err.message); }
+    });
+
+    // AUTOMATION
+    toggleBtn.addEventListener('click', async () => {
+      toggleBtn.disabled = true;
+      automationRunning = !automationRunning;
+      try {
+        await fetch('/automation', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ running: automationRunning }) });
+      } catch (err) { alert('Failed to toggle automation: ' + err.message); }
+      finally { toggleBtn.disabled = false; }
+    });
+
+    async function loadAutomationStatus() {
+      try {
+        const res = await fetch('/automation');
+        const data = await res.json();
+        automationRunning = data.running;
+        toggleBtn.textContent = automationRunning ? 'Stop Automation' : 'Start Automation';
+        statusSpan.textContent = automationRunning ? 'Running' : 'Stopped';
+      } catch (err) { console.error(err); }
+    }
+
+    // REFRESH
+    document.getElementById('refreshBtn').addEventListener('click', () => loadTransactions(currentPage));
+
+    // FILTERS
+    function applyFilters() {
+      search = document.getElementById('searchInput').value;
+      loadTransactions(1);
+    }
+
+    function downloadExcel() {
+      const url = `/transactions/export?search=${encodeURIComponent(search)}`;
+      window.open(url, '_blank');
+    }
+
+    // DELETE ALL
+    document.getElementById('deleteAllBtn').addEventListener('click', async () => {
+      if (!confirm("⚠️ Are you sure you want to DELETE ALL transactions?")) return;
+      const btn = document.getElementById('deleteAllBtn');
+      btn.disabled = true;
+      btn.textContent = "Deleting...";
+      try {
+        const res = await fetch('/transactions/delete-all', { method: 'DELETE', headers: { 'Content-Type': 'application/json' } });
+        if (res.ok) {
+          const data = await res.json();
+          alert(`✅ Deleted ${data.deletedCount} transactions.`);
+          loadTransactions(1);
+        } else {
+          const err = await res.json();
+          alert('❌ Failed to delete: ' + (err.message || res.statusText));
+        }
+      } catch (error) { alert('❌ Network error: ' + error.message); }
+      finally { btn.disabled = false; btn.textContent = "Delete All"; }
+    });
+
+    // SSE FOR AUTOMATION UPDATES
+    const evtSource = new EventSource('/automation/updates');
+    evtSource.onmessage = function (event) {
+      const data = JSON.parse(event.data);
+      if (data.event === 'automation_started') { document.getElementById('automationSpinner').style.display = 'inline'; statusSpan.textContent = 'Running'; toggleBtn.textContent = 'Stop Automation'; }
+      if (data.event === 'automation_completed') { document.getElementById('automationSpinner').style.display = 'none'; statusSpan.textContent = 'Stopped'; toggleBtn.textContent = 'Start Automation'; alert('✅ Automation completed successfully!'); }
+      loadTransactions(1);
+    };
+
+    // TRANSACTIONS LOADER
+    async function loadTransactions(page = 1) {
+      currentPage = page;
+      const loadingText = document.getElementById('loadingText');
+      const table = document.getElementById('transactionsTable');
+      const tbody = table.querySelector('tbody');
+      const paginationDiv = document.getElementById('pagination');
+      loadingText.style.display = 'block';
+      table.style.display = 'none';
+      tbody.innerHTML = '';
+      paginationDiv.innerHTML = '';
+
+      try {
+        const res = await fetch(`/transactions?page=${page}&limit=${limit}&search=${encodeURIComponent(search)}`);
+        const data = await res.json();
+        totalPages = data.pages;
+
+        if (data.transactions.length === 0) { loadingText.textContent = 'No transactions found'; return; }
+
+        data.transactions.forEach(tx => {
+          const tr = document.createElement('tr');
+          tr.innerHTML = `
+            <td>${tx.TransactionID || ''}</td>
+            <td>${tx.AccountNo || ''}</td>
+            <td>${tx.Operator || ''}</td>
+            <td>${tx.Amount || ''}</td>
+            <td>${tx.Debit || ''}</td>
+            <td>${tx.Comm >= 0 ? tx.Comm : ''}</td>
+            <td>
+              <select data-id="${tx._id}" class="status-select">
+                <option value="SUCCESS" ${tx.Status === 'SUCCESS' ? 'selected' : ''}>SUCCESS</option>
+                <option value="FAILED" ${tx.Status === 'FAILED' ? 'selected' : ''}>FAILED</option>
+                <option value="PENDING" ${tx.Status === 'PENDING' ? 'selected' : ''}>PENDING</option>
+              </select>
+            </td>
+            <td>
+              <span style="display:inline-block;padding:4px 8px;border-radius:12px;color:white;font-weight:bold;text-align:center;background-color:${tx.AutoMationChecked ? 'green' : 'red'};">
+              ${tx.AutoMationChecked ? 'Checked' : 'Not Checked'}</span>
+            </td>
+            <td>${tx.API || ''}</td> 
+            <td><button class="update-btn" data-id="${tx._id}">Update</button></td>
+          `;
+          tbody.appendChild(tr);
+        });
+
+        // Attach update button events
+        document.querySelectorAll('.update-btn').forEach(btn => {
+          btn.addEventListener('click', async () => {
+            const id = btn.dataset.id;
+            const status = document.querySelector(`.status-select[data-id='${id}']`).value;
+            btn.disabled = true;
+            try {
+              const res = await fetch(`/transactions/${id}`, {
+                method: 'PUT',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ Status: status })
+              });
+              if (res.ok) {
+                alert('✅ Status updated successfully');
+                loadTransactions(currentPage);
+              } else {
+                const err = await res.json();
+                alert('❌ Update failed: ' + (err.message || res.statusText));
+              }
+            } catch (err) {
+              alert('❌ Network error: ' + err.message);
+            } finally {
+              btn.disabled = false;
+            }
+          });
+        });
+
+        // Pagination buttons
+        for (let i = 1; i <= totalPages; i++) {
+          const btn = document.createElement('button');
+          btn.textContent = i;
+          if (i === currentPage) btn.classList.add('active');
+          btn.addEventListener('click', () => loadTransactions(i));
+          paginationDiv.appendChild(btn);
+        }
+
+        table.style.display = 'table';
+        loadingText.style.display = 'none';
+      } catch (err) {
+        console.error(err);
+        loadingText.textContent = '❌ Failed to load transactions';
+      }
+    }
+    // UPLOAD MODAL
+    const uploadModal = document.getElementById('uploadModal');
+    document.getElementById('openUploadModal').addEventListener('click', () => {
+      uploadModal.style.display = 'flex';
+    });
+    document.getElementById('closeUploadModal').addEventListener('click', () => {
+      uploadModal.style.display = 'none';
+    });
+
+    document.getElementById('modalUploadBtn').addEventListener('click', async () => {
+      const fileInput = document.getElementById('modalExcelFile');
+      if (!fileInput.files.length) return alert('Please select a file');
+
+      const file = fileInput.files[0];
+      const formData = new FormData();
+      formData.append('file', file);
+
+      const progress = document.getElementById('modalUploadProgress');
+      const statusDiv = document.getElementById('modalUploadStatus');
+      const previewDiv = document.getElementById('modalPreview');
+
+      progress.style.display = 'block';
+      progress.value = 0;
+      statusDiv.textContent = 'Uploading...';
+      previewDiv.innerHTML = '';
+
+      try {
+        const res = await fetch('/transactions/upload', {
+          method: 'POST',
+          body: formData
+        });
+
+        const data = await res.json();
+
+        if (res.ok) {
+          // Update status
+          statusDiv.textContent = `✅ Uploaded ${data.rows} rows`;
+
+          // Show preview of first 5 rows
+          if (data.preview && data.preview.length) {
+            previewDiv.innerHTML = data.preview.map(row => {
+              return `<div>${Object.values(row).join(' | ')}</div>`;
+            }).join('');
+          } else {
+            previewDiv.textContent = 'No preview available';
+          }
+
+          // Refresh transactions table
+          if (typeof loadTransactions === 'function') loadTransactions(1);
+
+        } else {
+          statusDiv.textContent = '❌ Upload failed: ' + (data.message || res.statusText);
+        }
+      } catch (err) {
+        statusDiv.textContent = '❌ Network error: ' + err.message;
+      } finally {
+        progress.style.display = 'none';
+      }
+    });
+
+    // Close modal if click outside content
+    window.addEventListener('click', e => {
+      if (e.target === uploadModal) uploadModal.style.display = 'none';
+    });
+
+  </script>
+</body>
+
+</html>

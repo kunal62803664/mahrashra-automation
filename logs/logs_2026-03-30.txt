@@ -1,0 +1,1208 @@
+[2026-03-30T06:59:51.459Z] Server running on http://localhost:4000
+[2026-03-30T06:59:51.469Z] ✅ MongoDB connected
+[2026-03-30T07:00:25.522Z] Server running on http://localhost:4000
+[2026-03-30T07:00:25.535Z] ✅ MongoDB connected
+[2026-03-30T07:00:45.006Z] Server running on http://localhost:4000
+[2026-03-30T07:00:45.016Z] ✅ MongoDB connected
+[2026-03-30T07:00:47.063Z] Server running on http://localhost:4000
+[2026-03-30T07:00:47.072Z] ✅ MongoDB connected
+[2026-03-30T07:00:57.692Z] Server running on http://localhost:4000
+[2026-03-30T07:00:57.701Z] ✅ MongoDB connected
+[2026-03-30T07:00:58.995Z] Server running on http://localhost:4000
+[2026-03-30T07:00:59.011Z] ✅ MongoDB connected
+[2026-03-30T07:01:11.412Z] Server running on http://localhost:4000
+[2026-03-30T07:01:11.425Z] ✅ MongoDB connected
+[2026-03-30T07:01:31.273Z] Server running on http://localhost:4000
+[2026-03-30T07:01:31.286Z] ✅ MongoDB connected
+[2026-03-30T07:01:33.314Z] Server running on http://localhost:4000
+[2026-03-30T07:01:33.328Z] ✅ MongoDB connected
+[2026-03-30T07:02:05.325Z] Server running on http://localhost:4000
+[2026-03-30T07:02:05.339Z] ✅ MongoDB connected
+[2026-03-30T07:02:16.917Z] Server running on http://localhost:4000
+[2026-03-30T07:02:16.930Z] ✅ MongoDB connected
+[2026-03-30T07:02:20.544Z] Server running on http://localhost:4000
+[2026-03-30T07:02:20.557Z] ✅ MongoDB connected
+[2026-03-30T07:02:25.887Z] Server running on http://localhost:4000
+[2026-03-30T07:02:25.901Z] ✅ MongoDB connected
+[2026-03-30T07:03:22.856Z] Server running on http://localhost:4000
+[2026-03-30T07:03:22.871Z] ✅ MongoDB connected
+[2026-03-30T07:03:28.593Z] Server running on http://localhost:4000
+[2026-03-30T07:03:28.606Z] ✅ MongoDB connected
+[2026-03-30T07:03:38.115Z] Server running on http://localhost:4000
+[2026-03-30T07:03:38.131Z] ✅ MongoDB connected
+[2026-03-30T07:04:04.220Z] Server running on http://localhost:4000
+[2026-03-30T07:04:04.235Z] ✅ MongoDB connected
+[2026-03-30T07:05:04.032Z] Server running on http://localhost:4000
+[2026-03-30T07:05:04.047Z] ✅ MongoDB connected
+[2026-03-30T07:05:21.417Z] Server running on http://localhost:4000
+[2026-03-30T07:05:21.431Z] ✅ MongoDB connected
+[2026-03-30T07:05:24.615Z] Server running on http://localhost:4000
+[2026-03-30T07:05:24.637Z] ✅ MongoDB connected
+[2026-03-30T07:05:26.393Z] Server running on http://localhost:4000
+[2026-03-30T07:05:26.408Z] ✅ MongoDB connected
+[2026-03-30T07:08:04.826Z] Server running on http://localhost:4000
+[2026-03-30T07:08:04.845Z] ✅ MongoDB connected
+[2026-03-30T07:17:33.713Z] Server running on http://localhost:4000
+[2026-03-30T07:17:33.727Z] ✅ MongoDB connected
+[2026-03-30T07:17:39.319Z] Server running on http://localhost:4000
+[2026-03-30T07:17:39.333Z] ✅ MongoDB connected
+[2026-03-30T07:17:44.616Z] Server running on http://localhost:4000
+[2026-03-30T07:17:44.629Z] ✅ MongoDB connected
+[2026-03-30T07:17:48.969Z] Server running on http://localhost:4000
+[2026-03-30T07:17:48.982Z] ✅ MongoDB connected
+[2026-03-30T07:17:53.530Z] Server running on http://localhost:4000
+[2026-03-30T07:17:53.544Z] ✅ MongoDB connected
+[2026-03-30T07:17:59.983Z] Server running on http://localhost:4000
+[2026-03-30T07:17:59.996Z] ✅ MongoDB connected
+[2026-03-30T07:18:19.436Z] Server running on http://localhost:4000
+[2026-03-30T07:18:19.451Z] ✅ MongoDB connected
+[2026-03-30T07:18:21.339Z] Server running on http://localhost:4000
+[2026-03-30T07:18:21.352Z] ✅ MongoDB connected
+[2026-03-30T07:18:32.811Z] Server running on http://localhost:4000
+[2026-03-30T07:18:32.825Z] ✅ MongoDB connected
+[2026-03-30T07:18:47.042Z] Server running on http://localhost:4000
+[2026-03-30T07:18:47.055Z] ✅ MongoDB connected
+[2026-03-30T07:18:54.690Z] Server running on http://localhost:4000
+[2026-03-30T07:18:54.705Z] ✅ MongoDB connected
+[2026-03-30T07:18:55.771Z] Server running on http://localhost:4000
+[2026-03-30T07:18:55.786Z] ✅ MongoDB connected
+[2026-03-30T07:19:12.284Z] Server running on http://localhost:4000
+[2026-03-30T07:19:12.297Z] ✅ MongoDB connected
+[2026-03-30T07:19:15.339Z] Server running on http://localhost:4000
+[2026-03-30T07:19:15.354Z] ✅ MongoDB connected
+[2026-03-30T07:19:23.852Z] Server running on http://localhost:4000
+[2026-03-30T07:19:23.866Z] ✅ MongoDB connected
+[2026-03-30T07:19:37.326Z] Server running on http://localhost:4000
+[2026-03-30T07:19:37.339Z] ✅ MongoDB connected
+[2026-03-30T07:19:46.877Z] Server running on http://localhost:4000
+[2026-03-30T07:19:46.892Z] ✅ MongoDB connected
+[2026-03-30T07:19:48.644Z] Server running on http://localhost:4000
+[2026-03-30T07:19:48.658Z] ✅ MongoDB connected
+[2026-03-30T07:19:58.335Z] Server running on http://localhost:4000
+[2026-03-30T07:19:58.349Z] ✅ MongoDB connected
+[2026-03-30T07:19:59.758Z] Server running on http://localhost:4000
+[2026-03-30T07:19:59.776Z] ✅ MongoDB connected
+[2026-03-30T07:20:01.541Z] Server running on http://localhost:4000
+[2026-03-30T07:20:01.559Z] ✅ MongoDB connected
+[2026-03-30T07:20:05.883Z] Server running on http://localhost:4000
+[2026-03-30T07:20:05.897Z] ✅ MongoDB connected
+[2026-03-30T07:20:20.613Z] Server running on http://localhost:4000
+[2026-03-30T07:20:20.627Z] ✅ MongoDB connected
+[2026-03-30T07:20:24.254Z] Server running on http://localhost:4000
+[2026-03-30T07:20:24.268Z] ✅ MongoDB connected
+[2026-03-30T07:20:26.387Z] Server running on http://localhost:4000
+[2026-03-30T07:20:26.402Z] ✅ MongoDB connected
+[2026-03-30T07:20:45.840Z] Server running on http://localhost:4000
+[2026-03-30T07:20:45.853Z] ✅ MongoDB connected
+[2026-03-30T07:20:54.535Z] Server running on http://localhost:4000
+[2026-03-30T07:20:54.550Z] ✅ MongoDB connected
+[2026-03-30T07:20:58.068Z] Server running on http://localhost:4000
+[2026-03-30T07:20:58.081Z] ✅ MongoDB connected
+[2026-03-30T07:21:00.925Z] Server running on http://localhost:4000
+[2026-03-30T07:21:00.938Z] ✅ MongoDB connected
+[2026-03-30T07:21:02.414Z] Server running on http://localhost:4000
+[2026-03-30T07:21:02.428Z] ✅ MongoDB connected
+[2026-03-30T07:21:03.655Z] Server running on http://localhost:4000
+[2026-03-30T07:21:03.671Z] ✅ MongoDB connected
+[2026-03-30T07:21:11.158Z] Server running on http://localhost:4000
+[2026-03-30T07:21:11.171Z] ✅ MongoDB connected
+[2026-03-30T07:21:15.303Z] Server running on http://localhost:4000
+[2026-03-30T07:21:15.318Z] ✅ MongoDB connected
+[2026-03-30T07:21:17.897Z] Server running on http://localhost:4000
+[2026-03-30T07:21:17.910Z] ✅ MongoDB connected
+[2026-03-30T07:22:02.715Z] Server running on http://localhost:4000
+[2026-03-30T07:22:02.729Z] ✅ MongoDB connected
+[2026-03-30T07:22:12.262Z] Server running on http://localhost:4000
+[2026-03-30T07:22:12.276Z] ✅ MongoDB connected
+[2026-03-30T07:22:47.759Z] Server running on http://localhost:4000
+[2026-03-30T07:22:47.772Z] ✅ MongoDB connected
+[2026-03-30T07:22:54.548Z] Server running on http://localhost:4000
+[2026-03-30T07:22:54.563Z] ✅ MongoDB connected
+[2026-03-30T07:23:02.256Z] Server running on http://localhost:4000
+[2026-03-30T07:23:02.270Z] ✅ MongoDB connected
+[2026-03-30T07:23:29.847Z] Server running on http://localhost:4000
+[2026-03-30T07:23:29.860Z] ✅ MongoDB connected
+[2026-03-30T07:23:39.160Z] Server running on http://localhost:4000
+[2026-03-30T07:23:39.174Z] ✅ MongoDB connected
+[2026-03-30T07:23:41.098Z] Server running on http://localhost:4000
+[2026-03-30T07:23:41.112Z] ✅ MongoDB connected
+[2026-03-30T07:24:06.381Z] Server running on http://localhost:4000
+[2026-03-30T07:24:06.395Z] ✅ MongoDB connected
+[2026-03-30T07:24:08.320Z] Server running on http://localhost:4000
+[2026-03-30T07:24:08.334Z] ✅ MongoDB connected
+[2026-03-30T07:24:09.684Z] Server running on http://localhost:4000
+[2026-03-30T07:24:09.700Z] ✅ MongoDB connected
+[2026-03-30T07:24:14.427Z] Server running on http://localhost:4000
+[2026-03-30T07:24:14.441Z] ✅ MongoDB connected
+[2026-03-30T07:24:39.419Z] Server running on http://localhost:4000
+[2026-03-30T07:24:39.434Z] ✅ MongoDB connected
+[2026-03-30T07:24:41.304Z] Server running on http://localhost:4000
+[2026-03-30T07:24:41.318Z] ✅ MongoDB connected
+[2026-03-30T07:24:44.200Z] Server running on http://localhost:4000
+[2026-03-30T07:24:44.214Z] ✅ MongoDB connected
+[2026-03-30T07:24:54.098Z] Server running on http://localhost:4000
+[2026-03-30T07:24:54.112Z] ✅ MongoDB connected
+[2026-03-30T07:25:09.160Z] Server running on http://localhost:4000
+[2026-03-30T07:25:09.174Z] ✅ MongoDB connected
+[2026-03-30T07:25:11.832Z] Server running on http://localhost:4000
+[2026-03-30T07:25:11.847Z] ✅ MongoDB connected
+[2026-03-30T07:25:59.290Z] Server running on http://localhost:4000
+[2026-03-30T07:25:59.303Z] ✅ MongoDB connected
+[2026-03-30T07:26:23.305Z] Server running on http://localhost:4000
+[2026-03-30T07:26:23.321Z] ✅ MongoDB connected
+[2026-03-30T07:36:47.763Z] Server running on http://localhost:4000
+[2026-03-30T07:36:47.784Z] ✅ MongoDB connected
+[2026-03-30T07:37:04.811Z] Server running on http://localhost:4000
+[2026-03-30T07:37:04.828Z] ✅ MongoDB connected
+[2026-03-30T07:37:06.029Z] Server running on http://localhost:4000
+[2026-03-30T07:37:06.042Z] ✅ MongoDB connected
+[2026-03-30T07:37:11.569Z] Server running on http://localhost:4000
+[2026-03-30T07:37:11.582Z] ✅ MongoDB connected
+[2026-03-30T07:37:16.562Z] Server running on http://localhost:4000
+[2026-03-30T07:37:16.576Z] ✅ MongoDB connected
+[2026-03-30T07:37:23.594Z] Server running on http://localhost:4000
+[2026-03-30T07:37:23.607Z] ✅ MongoDB connected
+[2026-03-30T07:37:25.785Z] Server running on http://localhost:4000
+[2026-03-30T07:37:25.799Z] ✅ MongoDB connected
+[2026-03-30T07:38:35.271Z] Server running on http://localhost:4000
+[2026-03-30T07:38:35.285Z] ✅ MongoDB connected
+[2026-03-30T07:39:07.204Z] Server running on http://localhost:4000
+[2026-03-30T07:39:07.217Z] ✅ MongoDB connected
+[2026-03-30T07:39:10.741Z] Server running on http://localhost:4000
+[2026-03-30T07:39:10.754Z] ✅ MongoDB connected
+[2026-03-30T07:39:18.037Z] Server running on http://localhost:4000
+[2026-03-30T07:39:18.049Z] ✅ MongoDB connected
+[2026-03-30T07:39:22.652Z] Server running on http://localhost:4000
+[2026-03-30T07:39:22.666Z] ✅ MongoDB connected
+[2026-03-30T07:39:27.004Z] Server running on http://localhost:4000
+[2026-03-30T07:39:27.018Z] ✅ MongoDB connected
+[2026-03-30T07:46:06.446Z] Server running on http://localhost:4000
+[2026-03-30T07:46:06.460Z] ✅ MongoDB connected
+[2026-03-30T07:46:13.605Z] Server running on http://localhost:4000
+[2026-03-30T07:46:13.619Z] ✅ MongoDB connected
+[2026-03-30T07:46:20.063Z] Server running on http://localhost:4000
+[2026-03-30T07:46:20.076Z] ✅ MongoDB connected
+[2026-03-30T07:46:26.865Z] Server running on http://localhost:4000
+[2026-03-30T07:46:26.880Z] ✅ MongoDB connected
+[2026-03-30T07:47:22.662Z] Server running on http://localhost:4000
+[2026-03-30T07:47:22.676Z] ✅ MongoDB connected
+[2026-03-30T07:47:25.998Z] Server running on http://localhost:4000
+[2026-03-30T07:47:26.012Z] ✅ MongoDB connected
+[2026-03-30T07:47:45.116Z] Server running on http://localhost:4000
+[2026-03-30T07:47:45.131Z] ✅ MongoDB connected
+[2026-03-30T07:54:53.674Z] Server running on http://localhost:4000
+[2026-03-30T07:54:53.687Z] ✅ MongoDB connected
+[2026-03-30T07:55:46.691Z] Server running on http://localhost:4000
+[2026-03-30T07:55:46.704Z] ✅ MongoDB connected
+[2026-03-30T07:55:56.544Z] Server running on http://localhost:4000
+[2026-03-30T07:55:56.557Z] ✅ MongoDB connected
+[2026-03-30T09:18:18.394Z] Server running on http://localhost:4000
+[2026-03-30T09:18:18.408Z] ✅ MongoDB connected
+[2026-03-30T09:18:20.335Z] Server running on http://localhost:4000
+[2026-03-30T09:18:20.349Z] ✅ MongoDB connected
+[2026-03-30T09:18:25.674Z] Server running on http://localhost:4000
+[2026-03-30T09:18:25.688Z] ✅ MongoDB connected
+[2026-03-30T09:19:59.271Z] Server running on http://localhost:4000
+[2026-03-30T09:19:59.285Z] ✅ MongoDB connected
+[2026-03-30T09:20:00.592Z] Server running on http://localhost:4000
+[2026-03-30T09:20:00.605Z] ✅ MongoDB connected
+[2026-03-30T09:20:04.586Z] Server running on http://localhost:4000
+[2026-03-30T09:20:04.599Z] ✅ MongoDB connected
+[2026-03-30T09:20:10.971Z] Server running on http://localhost:4000
+[2026-03-30T09:20:10.984Z] ✅ MongoDB connected
+[2026-03-30T09:20:11.996Z] Server running on http://localhost:4000
+[2026-03-30T09:20:12.010Z] ✅ MongoDB connected
+[2026-03-30T09:20:16.165Z] Server running on http://localhost:4000
+[2026-03-30T09:20:16.179Z] ✅ MongoDB connected
+[2026-03-30T09:20:19.648Z] Server running on http://localhost:4000
+[2026-03-30T09:20:19.661Z] ✅ MongoDB connected
+[2026-03-30T09:20:50.540Z] Server running on http://localhost:4000
+[2026-03-30T09:20:50.556Z] ✅ MongoDB connected
+[2026-03-30T09:20:55.213Z] Server running on http://localhost:4000
+[2026-03-30T09:20:55.226Z] ✅ MongoDB connected
+[2026-03-30T09:21:06.979Z] Server running on http://localhost:4000
+[2026-03-30T09:21:06.992Z] ✅ MongoDB connected
+[2026-03-30T09:21:08.234Z] Server running on http://localhost:4000
+[2026-03-30T09:21:08.255Z] ✅ MongoDB connected
+[2026-03-30T09:21:40.668Z] Server running on http://localhost:4000
+[2026-03-30T09:21:40.681Z] ✅ MongoDB connected
+[2026-03-30T09:21:44.783Z] Server running on http://localhost:4000
+[2026-03-30T09:21:44.796Z] ✅ MongoDB connected
+[2026-03-30T09:21:46.528Z] Server running on http://localhost:4000
+[2026-03-30T09:21:46.543Z] ✅ MongoDB connected
+[2026-03-30T09:21:48.149Z] Server running on http://localhost:4000
+[2026-03-30T09:21:48.163Z] ✅ MongoDB connected
+[2026-03-30T09:21:55.817Z] Server running on http://localhost:4000
+[2026-03-30T09:21:55.831Z] ✅ MongoDB connected
+[2026-03-30T09:22:16.523Z] Server running on http://localhost:4000
+[2026-03-30T09:22:16.537Z] ✅ MongoDB connected
+[2026-03-30T09:22:22.060Z] Server running on http://localhost:4000
+[2026-03-30T09:22:22.074Z] ✅ MongoDB connected
+[2026-03-30T09:22:24.124Z] Server running on http://localhost:4000
+[2026-03-30T09:22:24.137Z] ✅ MongoDB connected
+[2026-03-30T09:22:29.829Z] Server running on http://localhost:4000
+[2026-03-30T09:22:29.843Z] ✅ MongoDB connected
+[2026-03-30T09:23:15.390Z] Server running on http://localhost:4000
+[2026-03-30T09:23:15.403Z] ✅ MongoDB connected
+[2026-03-30T09:23:17.024Z] Server running on http://localhost:4000
+[2026-03-30T09:23:17.037Z] ✅ MongoDB connected
+[2026-03-30T09:23:19.058Z] Server running on http://localhost:4000
+[2026-03-30T09:23:19.071Z] ✅ MongoDB connected
+[2026-03-30T09:23:24.009Z] Server running on http://localhost:4000
+[2026-03-30T09:23:24.023Z] ✅ MongoDB connected
+[2026-03-30T09:23:31.046Z] Server running on http://localhost:4000
+[2026-03-30T09:23:31.059Z] ✅ MongoDB connected
+[2026-03-30T09:23:33.229Z] Server running on http://localhost:4000
+[2026-03-30T09:23:33.243Z] ✅ MongoDB connected
+[2026-03-30T09:23:38.284Z] Server running on http://localhost:4000
+[2026-03-30T09:23:38.299Z] ✅ MongoDB connected
+[2026-03-30T09:23:51.445Z] Server running on http://localhost:4000
+[2026-03-30T09:23:51.460Z] ✅ MongoDB connected
+[2026-03-30T09:24:10.078Z] Server running on http://localhost:4000
+[2026-03-30T09:24:10.092Z] ✅ MongoDB connected
+[2026-03-30T09:24:43.645Z] Server running on http://localhost:4000
+[2026-03-30T09:24:43.659Z] ✅ MongoDB connected
+[2026-03-30T09:25:01.534Z] Server running on http://localhost:4000
+[2026-03-30T09:25:01.550Z] ✅ MongoDB connected
+[2026-03-30T09:25:04.549Z] Server running on http://localhost:4000
+[2026-03-30T09:25:04.562Z] ✅ MongoDB connected
+[2026-03-30T09:25:13.562Z] Server running on http://localhost:4000
+[2026-03-30T09:25:13.575Z] ✅ MongoDB connected
+[2026-03-30T09:25:52.362Z] Server running on http://localhost:4000
+[2026-03-30T09:25:52.376Z] ✅ MongoDB connected
+[2026-03-30T09:25:58.655Z] Server running on http://localhost:4000
+[2026-03-30T09:25:58.670Z] ✅ MongoDB connected
+[2026-03-30T09:26:12.230Z] Server running on http://localhost:4000
+[2026-03-30T09:26:12.244Z] ✅ MongoDB connected
+[2026-03-30T09:26:17.567Z] Server running on http://localhost:4000
+[2026-03-30T09:26:17.582Z] ✅ MongoDB connected
+[2026-03-30T09:26:19.346Z] Server running on http://localhost:4000
+[2026-03-30T09:26:19.361Z] ✅ MongoDB connected
+[2026-03-30T09:26:25.840Z] Server running on http://localhost:4000
+[2026-03-30T09:26:25.853Z] ✅ MongoDB connected
+[2026-03-30T09:26:27.287Z] Server running on http://localhost:4000
+[2026-03-30T09:26:27.302Z] ✅ MongoDB connected
+[2026-03-30T09:27:10.731Z] Server running on http://localhost:4000
+[2026-03-30T09:27:10.745Z] ✅ MongoDB connected
+[2026-03-30T09:27:35.739Z] Server running on http://localhost:4000
+[2026-03-30T09:27:35.752Z] ✅ MongoDB connected
+[2026-03-30T09:27:45.506Z] Server running on http://localhost:4000
+[2026-03-30T09:27:45.520Z] ✅ MongoDB connected
+[2026-03-30T09:27:54.905Z] Server running on http://localhost:4000
+[2026-03-30T09:27:54.919Z] ✅ MongoDB connected
+[2026-03-30T09:27:58.237Z] Server running on http://localhost:4000
+[2026-03-30T09:27:58.250Z] ✅ MongoDB connected
+[2026-03-30T09:28:03.574Z] Server running on http://localhost:4000
+[2026-03-30T09:28:03.590Z] ✅ MongoDB connected
+[2026-03-30T09:28:13.822Z] Server running on http://localhost:4000
+[2026-03-30T09:28:13.840Z] ✅ MongoDB connected
+[2026-03-30T09:28:22.408Z] Server running on http://localhost:4000
+[2026-03-30T09:28:22.422Z] ✅ MongoDB connected
+[2026-03-30T09:28:23.587Z] Server running on http://localhost:4000
+[2026-03-30T09:28:23.601Z] ✅ MongoDB connected
+[2026-03-30T09:28:25.239Z] Server running on http://localhost:4000
+[2026-03-30T09:28:25.253Z] ✅ MongoDB connected
+[2026-03-30T09:28:31.245Z] Server running on http://localhost:4000
+[2026-03-30T09:28:31.259Z] ✅ MongoDB connected
+[2026-03-30T09:28:49.628Z] Server running on http://localhost:4000
+[2026-03-30T09:28:49.642Z] ✅ MongoDB connected
+[2026-03-30T09:28:57.888Z] Server running on http://localhost:4000
+[2026-03-30T09:28:57.902Z] ✅ MongoDB connected
+[2026-03-30T09:29:02.560Z] Server running on http://localhost:4000
+[2026-03-30T09:29:02.574Z] ✅ MongoDB connected
+[2026-03-30T09:29:03.700Z] Server running on http://localhost:4000
+[2026-03-30T09:29:03.714Z] ✅ MongoDB connected
+[2026-03-30T09:29:24.057Z] Server running on http://localhost:4000
+[2026-03-30T09:29:24.070Z] ✅ MongoDB connected
+[2026-03-30T09:29:30.609Z] Server running on http://localhost:4000
+[2026-03-30T09:29:30.623Z] ✅ MongoDB connected
+[2026-03-30T09:29:36.174Z] Server running on http://localhost:4000
+[2026-03-30T09:29:36.189Z] ✅ MongoDB connected
+[2026-03-30T09:29:55.545Z] Server running on http://localhost:4000
+[2026-03-30T09:29:55.558Z] ✅ MongoDB connected
+[2026-03-30T09:30:07.577Z] Server running on http://localhost:4000
+[2026-03-30T09:30:07.590Z] ✅ MongoDB connected
+[2026-03-30T09:31:06.959Z] Server running on http://localhost:4000
+[2026-03-30T09:31:06.973Z] ✅ MongoDB connected
+[2026-03-30T09:31:20.541Z] Server running on http://localhost:4000
+[2026-03-30T09:31:20.555Z] ✅ MongoDB connected
+[2026-03-30T09:31:27.402Z] Server running on http://localhost:4000
+[2026-03-30T09:31:27.415Z] ✅ MongoDB connected
+[2026-03-30T09:31:36.455Z] Server running on http://localhost:4000
+[2026-03-30T09:31:36.470Z] ✅ MongoDB connected
+[2026-03-30T09:32:06.425Z] Server running on http://localhost:4000
+[2026-03-30T09:32:06.440Z] ✅ MongoDB connected
+[2026-03-30T09:32:30.863Z] Server running on http://localhost:4000
+[2026-03-30T09:32:30.877Z] ✅ MongoDB connected
+[2026-03-30T09:32:36.838Z] Server running on http://localhost:4000
+[2026-03-30T09:32:36.854Z] ✅ MongoDB connected
+[2026-03-30T09:32:39.732Z] Server running on http://localhost:4000
+[2026-03-30T09:32:39.749Z] ✅ MongoDB connected
+[2026-03-30T09:32:59.081Z] Server running on http://localhost:4000
+[2026-03-30T09:32:59.097Z] ✅ MongoDB connected
+[2026-03-30T09:33:03.686Z] Server running on http://localhost:4000
+[2026-03-30T09:33:03.701Z] ✅ MongoDB connected
+[2026-03-30T09:33:05.137Z] Server running on http://localhost:4000
+[2026-03-30T09:33:05.151Z] ✅ MongoDB connected
+[2026-03-30T09:33:11.107Z] Server running on http://localhost:4000
+[2026-03-30T09:33:11.120Z] ✅ MongoDB connected
+[2026-03-30T09:33:25.716Z] Server running on http://localhost:4000
+[2026-03-30T09:33:25.730Z] ✅ MongoDB connected
+[2026-03-30T09:33:42.910Z] Server running on http://localhost:4000
+[2026-03-30T09:33:42.924Z] ✅ MongoDB connected
+[2026-03-30T09:34:23.483Z] Server running on http://localhost:4000
+[2026-03-30T09:34:23.497Z] ✅ MongoDB connected
+[2026-03-30T09:34:26.469Z] Server running on http://localhost:4000
+[2026-03-30T09:34:26.484Z] ✅ MongoDB connected
+[2026-03-30T09:34:31.479Z] Server running on http://localhost:4000
+[2026-03-30T09:34:31.494Z] ✅ MongoDB connected
+[2026-03-30T09:34:39.846Z] Server running on http://localhost:4000
+[2026-03-30T09:34:39.859Z] ✅ MongoDB connected
+[2026-03-30T09:34:46.101Z] Server running on http://localhost:4000
+[2026-03-30T09:34:46.116Z] ✅ MongoDB connected
+[2026-03-30T09:35:28.644Z] Server running on http://localhost:4000
+[2026-03-30T09:35:28.658Z] ✅ MongoDB connected
+[2026-03-30T09:35:32.527Z] Server running on http://localhost:4000
+[2026-03-30T09:35:32.541Z] ✅ MongoDB connected
+[2026-03-30T09:35:33.739Z] Server running on http://localhost:4000
+[2026-03-30T09:35:33.752Z] ✅ MongoDB connected
+[2026-03-30T09:35:53.179Z] Server running on http://localhost:4000
+[2026-03-30T09:35:53.193Z] ✅ MongoDB connected
+[2026-03-30T09:35:54.346Z] Server running on http://localhost:4000
+[2026-03-30T09:35:54.360Z] ✅ MongoDB connected
+[2026-03-30T09:36:13.749Z] Server running on http://localhost:4000
+[2026-03-30T09:36:13.763Z] ✅ MongoDB connected
+[2026-03-30T09:36:15.863Z] Server running on http://localhost:4000
+[2026-03-30T09:36:15.878Z] ✅ MongoDB connected
+[2026-03-30T09:36:17.813Z] Server running on http://localhost:4000
+[2026-03-30T09:36:17.827Z] ✅ MongoDB connected
+[2026-03-30T09:36:22.080Z] Server running on http://localhost:4000
+[2026-03-30T09:36:22.095Z] ✅ MongoDB connected
+[2026-03-30T09:36:26.695Z] Server running on http://localhost:4000
+[2026-03-30T09:36:26.708Z] ✅ MongoDB connected
+[2026-03-30T09:36:27.890Z] Server running on http://localhost:4000
+[2026-03-30T09:36:27.905Z] ✅ MongoDB connected
+[2026-03-30T09:36:32.347Z] Server running on http://localhost:4000
+[2026-03-30T09:36:32.360Z] ✅ MongoDB connected
+[2026-03-30T09:36:37.063Z] Server running on http://localhost:4000
+[2026-03-30T09:36:37.078Z] ✅ MongoDB connected
+[2026-03-30T09:36:42.522Z] Server running on http://localhost:4000
+[2026-03-30T09:36:42.537Z] ✅ MongoDB connected
+[2026-03-30T09:36:46.171Z] Server running on http://localhost:4000
+[2026-03-30T09:36:46.184Z] ✅ MongoDB connected
+[2026-03-30T09:38:34.159Z] Server running on http://localhost:4000
+[2026-03-30T09:38:34.175Z] ✅ MongoDB connected
+[2026-03-30T09:38:37.206Z] Server running on http://localhost:4000
+[2026-03-30T09:38:37.221Z] ✅ MongoDB connected
+[2026-03-30T09:38:40.033Z] Server running on http://localhost:4000
+[2026-03-30T09:38:40.047Z] ✅ MongoDB connected
+[2026-03-30T09:38:53.852Z] Server running on http://localhost:4000
+[2026-03-30T09:38:53.866Z] ✅ MongoDB connected
+[2026-03-30T09:38:55.024Z] Server running on http://localhost:4000
+[2026-03-30T09:38:55.037Z] ✅ MongoDB connected
+[2026-03-30T09:39:23.914Z] Server running on http://localhost:4000
+[2026-03-30T09:39:23.928Z] ✅ MongoDB connected
+[2026-03-30T09:39:25.114Z] Server running on http://localhost:4000
+[2026-03-30T09:39:25.127Z] ✅ MongoDB connected
+[2026-03-30T09:39:29.502Z] Server running on http://localhost:4000
+[2026-03-30T09:39:29.518Z] ✅ MongoDB connected
+[2026-03-30T09:39:32.186Z] Server running on http://localhost:4000
+[2026-03-30T09:39:32.200Z] ✅ MongoDB connected
+[2026-03-30T09:42:38.310Z] Server running on http://localhost:4000
+[2026-03-30T09:42:38.324Z] ✅ MongoDB connected
+[2026-03-30T09:45:27.107Z] 🚀 Automation triggered via API
+[2026-03-30T09:45:27.108Z] 🚀 Automation started
+[2026-03-30T09:45:27.115Z] ✅ All rows processed
+[2026-03-30T09:45:27.116Z] 🏁 Automation completed
+[2026-03-30T09:45:27.786Z] ⏹ Automation stopped by admin
+[2026-03-30T09:45:28.570Z] 🚀 Automation triggered via API
+[2026-03-30T09:45:28.571Z] 🚀 Automation started
+[2026-03-30T09:45:28.574Z] ✅ All rows processed
+[2026-03-30T09:45:28.575Z] 🏁 Automation completed
+[2026-03-30T09:45:32.282Z] ⏹ Automation stopped by admin
+[2026-03-30T09:46:50.382Z] 🚀 Automation triggered via API
+[2026-03-30T09:46:50.383Z] 🚀 Automation started
+[2026-03-30T09:46:50.386Z] ✅ All rows processed
+[2026-03-30T09:46:50.386Z] 🏁 Automation completed
+[2026-03-30T09:47:13.989Z] Server running on http://localhost:4000
+[2026-03-30T09:47:14.004Z] ✅ MongoDB connected
+[2026-03-30T09:47:26.791Z] 🚀 Automation triggered via API
+[2026-03-30T09:47:26.792Z] 🚀 Automation started
+[2026-03-30T09:47:26.795Z] ✅ All rows processed
+[2026-03-30T09:47:26.796Z] 🏁 Automation completed
+[2026-03-30T09:49:04.862Z] Server running on http://localhost:4000
+[2026-03-30T09:49:04.877Z] ✅ MongoDB connected
+[2026-03-30T09:50:06.869Z] Server running on http://localhost:4000
+[2026-03-30T09:50:06.884Z] ✅ MongoDB connected
+[2026-03-30T09:50:11.505Z] Server running on http://localhost:4000
+[2026-03-30T09:50:11.519Z] ✅ MongoDB connected
+[2026-03-30T09:51:39.833Z] Server running on http://localhost:4000
+[2026-03-30T09:51:39.851Z] ✅ MongoDB connected
+[2026-03-30T09:51:42.545Z] Server running on http://localhost:4000
+[2026-03-30T09:51:42.559Z] ✅ MongoDB connected
+[2026-03-30T09:51:44.403Z] Server running on http://localhost:4000
+[2026-03-30T09:51:44.416Z] ✅ MongoDB connected
+[2026-03-30T09:51:56.624Z] Server running on http://localhost:4000
+[2026-03-30T09:51:56.645Z] ✅ MongoDB connected
+[2026-03-30T09:53:17.638Z] 🚀 Automation triggered via API
+[2026-03-30T09:53:17.639Z] 🚀 Automation started
+[2026-03-30T09:53:17.643Z] ⏹ Automation stopped by admin
+[2026-03-30T09:53:17.645Z] ✅ All rows processed
+[2026-03-30T09:53:17.645Z] 🏁 Automation completed
+[2026-03-30T09:53:21.422Z] 🚀 Automation triggered via API
+[2026-03-30T09:53:21.422Z] 🚀 Automation started
+[2026-03-30T09:53:21.425Z] ⏹ Automation stopped by admin
+[2026-03-30T09:53:21.427Z] ✅ All rows processed
+[2026-03-30T09:53:21.427Z] 🏁 Automation completed
+[2026-03-30T09:53:23.133Z] 🚀 Automation triggered via API
+[2026-03-30T09:53:23.134Z] 🚀 Automation started
+[2026-03-30T09:53:23.137Z] ⏹ Automation stopped by admin
+[2026-03-30T09:53:23.139Z] ✅ All rows processed
+[2026-03-30T09:53:23.140Z] 🏁 Automation completed
+[2026-03-30T09:53:28.366Z] 🚀 Automation triggered via API
+[2026-03-30T09:53:28.366Z] 🚀 Automation started
+[2026-03-30T09:53:28.369Z] ⏹ Automation stopped by admin
+[2026-03-30T09:53:28.370Z] ✅ All rows processed
+[2026-03-30T09:53:28.371Z] 🏁 Automation completed
+[2026-03-30T10:20:55.710Z] Server running on http://localhost:4000
+[2026-03-30T10:20:55.727Z] ✅ MongoDB connected
+[2026-03-30T10:21:06.240Z] Server running on http://localhost:4000
+[2026-03-30T10:21:06.253Z] ✅ MongoDB connected
+[2026-03-30T10:21:11.600Z] Server running on http://localhost:4000
+[2026-03-30T10:21:11.615Z] ✅ MongoDB connected
+[2026-03-30T10:22:02.551Z] Server running on http://localhost:4000
+[2026-03-30T10:22:02.565Z] ✅ MongoDB connected
+[2026-03-30T10:25:30.458Z] 🚀 Automation triggered via API
+[2026-03-30T10:25:30.459Z] 🚀 Automation started
+[2026-03-30T10:25:30.461Z] ⏹ Automation stopped by admin
+[2026-03-30T10:25:30.465Z] ⏹ Automation stopped by admin
+[2026-03-30T10:25:30.466Z] ✅ All rows processed
+[2026-03-30T10:25:30.466Z] 🏁 Automation completed
+[2026-03-30T10:25:49.905Z] 🚀 Automation triggered via API
+[2026-03-30T10:25:49.906Z] 🚀 Automation started
+[2026-03-30T10:25:49.909Z] ⏹ Automation stopped by admin
+[2026-03-30T10:25:49.912Z] ⏹ Automation stopped by admin
+[2026-03-30T10:25:49.912Z] ✅ All rows processed
+[2026-03-30T10:25:49.913Z] 🏁 Automation completed
+[2026-03-30T10:28:51.501Z] 🚀 Automation triggered via API
+[2026-03-30T10:28:51.502Z] 🚀 Automation started
+[2026-03-30T10:28:51.505Z] ⏹ Automation stopped by admin
+[2026-03-30T10:28:51.507Z] ⏹ Automation stopped by admin
+[2026-03-30T10:28:51.508Z] ✅ All rows processed
+[2026-03-30T10:28:51.508Z] 🏁 Automation completed
+[2026-03-30T10:35:58.902Z] Server running on http://localhost:4000
+[2026-03-30T10:35:58.918Z] ✅ MongoDB connected
+[2026-03-30T10:36:10.736Z] Server running on http://localhost:4000
+[2026-03-30T10:36:10.750Z] ✅ MongoDB connected
+[2026-03-30T10:36:18.319Z] Server running on http://localhost:4000
+[2026-03-30T10:36:18.334Z] ✅ MongoDB connected
+[2026-03-30T10:36:33.911Z] 🚀 Automation triggered via API
+[2026-03-30T10:36:33.912Z] 🚀 Automation started
+[2026-03-30T10:36:33.912Z] ⏹ Automation Event Started
+[2026-03-30T10:36:33.916Z] ⏹ Automation stopped by admin
+[2026-03-30T10:36:33.925Z] ⏹ Automation stopped by admin
+[2026-03-30T10:36:33.926Z] ✅ All rows processed
+[2026-03-30T10:36:33.927Z] 🏁 Automation completed
+[2026-03-30T10:37:17.440Z] Server running on http://localhost:4000
+[2026-03-30T10:37:17.453Z] ✅ MongoDB connected
+[2026-03-30T10:38:27.803Z] Server running on http://localhost:4000
+[2026-03-30T10:38:27.818Z] ✅ MongoDB connected
+[2026-03-30T10:38:34.995Z] Server running on http://localhost:4000
+[2026-03-30T10:38:35.010Z] ✅ MongoDB connected
+[2026-03-30T10:38:37.482Z] Server running on http://localhost:4000
+[2026-03-30T10:38:37.496Z] ✅ MongoDB connected
+[2026-03-30T10:38:39.921Z] Server running on http://localhost:4000
+[2026-03-30T10:38:39.935Z] ✅ MongoDB connected
+[2026-03-30T10:38:42.065Z] Server running on http://localhost:4000
+[2026-03-30T10:38:42.079Z] ✅ MongoDB connected
+[2026-03-30T10:38:44.610Z] Server running on http://localhost:4000
+[2026-03-30T10:38:44.624Z] ✅ MongoDB connected
+[2026-03-30T10:38:46.990Z] Server running on http://localhost:4000
+[2026-03-30T10:38:47.004Z] ✅ MongoDB connected
+[2026-03-30T10:38:52.193Z] Server running on http://localhost:4000
+[2026-03-30T10:38:52.208Z] ✅ MongoDB connected
+[2026-03-30T10:39:00.209Z] Server running on http://localhost:4000
+[2026-03-30T10:39:00.223Z] ✅ MongoDB connected
+[2026-03-30T10:39:02.036Z] Server running on http://localhost:4000
+[2026-03-30T10:39:02.052Z] ✅ MongoDB connected
+[2026-03-30T10:39:05.564Z] Server running on http://localhost:4000
+[2026-03-30T10:39:05.578Z] ✅ MongoDB connected
+[2026-03-30T10:39:06.848Z] Server running on http://localhost:4000
+[2026-03-30T10:39:06.864Z] ✅ MongoDB connected
+[2026-03-30T10:39:48.135Z] Server running on http://localhost:4000
+[2026-03-30T10:39:48.150Z] ✅ MongoDB connected
+[2026-03-30T10:40:00.550Z] Server running on http://localhost:4000
+[2026-03-30T10:40:00.565Z] ✅ MongoDB connected
+[2026-03-30T10:40:02.302Z] Server running on http://localhost:4000
+[2026-03-30T10:40:02.317Z] ✅ MongoDB connected
+[2026-03-30T10:40:05.674Z] Server running on http://localhost:4000
+[2026-03-30T10:40:05.687Z] ✅ MongoDB connected
+[2026-03-30T10:40:09.358Z] Server running on http://localhost:4000
+[2026-03-30T10:40:09.374Z] ✅ MongoDB connected
+[2026-03-30T10:40:28.591Z] 🚀 Automation triggered via API
+[2026-03-30T10:40:28.592Z] 🚀 Automation started
+[2026-03-30T10:40:28.592Z] ⏹ Automation Event Started
+[2026-03-30T10:40:28.595Z] ⏹ Automation stopped by admin
+[2026-03-30T10:40:28.602Z] ⏹ Automation stopped by admin
+[2026-03-30T10:40:28.603Z] ✅ All rows processed
+[2026-03-30T10:40:28.603Z] 🏁 Automation completed
+[2026-03-30T10:41:21.365Z] Server running on http://localhost:4000
+[2026-03-30T10:41:21.379Z] ✅ MongoDB connected
+[2026-03-30T10:41:25.069Z] Server running on http://localhost:4000
+[2026-03-30T10:41:25.102Z] ✅ MongoDB connected
+[2026-03-30T10:42:12.762Z] Server running on http://localhost:4000
+[2026-03-30T10:42:12.776Z] ✅ MongoDB connected
+[2026-03-30T10:42:13.872Z] Server running on http://localhost:4000
+[2026-03-30T10:42:13.886Z] ✅ MongoDB connected
+[2026-03-30T10:42:17.155Z] Server running on http://localhost:4000
+[2026-03-30T10:42:17.169Z] ✅ MongoDB connected
+[2026-03-30T10:42:29.470Z] 🚀 Automation triggered via API
+[2026-03-30T10:42:29.471Z] 🚀 Automation started
+[2026-03-30T10:42:29.472Z] ⏹ Automation Event Started
+[2026-03-30T10:42:29.476Z] 🚀 Automation triggered via API
+[2026-03-30T10:42:29.476Z] 🚀 Automation started
+[2026-03-30T10:42:29.477Z] ⏹ Automation Event Started
+[2026-03-30T10:42:29.724Z] Captcha image (Base64):
+[2026-03-30T10:42:29.729Z] Captcha image (Base64):
+[2026-03-30T10:42:29.779Z] Bill fetched:
+[2026-03-30T10:42:29.780Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:42:29.968Z] Bill fetched:
+[2026-03-30T10:42:29.969Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:42:31.467Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:42:31.504Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:42:31.509Z] Captcha image (Base64):
+[2026-03-30T10:42:31.548Z] Captcha image (Base64):
+[2026-03-30T10:42:31.573Z] Bill fetched:
+[2026-03-30T10:42:31.573Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:42:31.595Z] Bill fetched:
+[2026-03-30T10:42:31.595Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:42:33.313Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:42:33.361Z] Captcha image (Base64):
+[2026-03-30T10:42:33.397Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:42:33.447Z] Bill fetched:
+[2026-03-30T10:42:33.447Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:42:33.450Z] Captcha image (Base64):
+[2026-03-30T10:42:33.504Z] Bill fetched:
+[2026-03-30T10:42:33.505Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:42:35.131Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:42:35.163Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:42:35.195Z] Captcha image (Base64):
+[2026-03-30T10:42:35.219Z] Captcha image (Base64):
+[2026-03-30T10:42:36.388Z] Bill fetched:
+[2026-03-30T10:42:36.389Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:42:36.394Z] Bill fetched:
+[2026-03-30T10:42:36.394Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:42:38.347Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:42:38.348Z] ✅ All rows processed
+[2026-03-30T10:42:38.348Z] 🏁 Automation completed
+[2026-03-30T10:42:38.432Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:42:38.433Z] ✅ All rows processed
+[2026-03-30T10:42:38.433Z] 🏁 Automation completed
+[2026-03-30T10:43:04.405Z] Server running on http://localhost:4000
+[2026-03-30T10:43:04.419Z] ✅ MongoDB connected
+[2026-03-30T10:43:07.084Z] Server running on http://localhost:4000
+[2026-03-30T10:43:07.097Z] ✅ MongoDB connected
+[2026-03-30T10:43:15.649Z] Server running on http://localhost:4000
+[2026-03-30T10:43:15.662Z] ✅ MongoDB connected
+[2026-03-30T10:43:19.769Z] Server running on http://localhost:4000
+[2026-03-30T10:43:19.783Z] ✅ MongoDB connected
+[2026-03-30T10:43:30.428Z] Server running on http://localhost:4000
+[2026-03-30T10:43:30.442Z] ✅ MongoDB connected
+[2026-03-30T10:44:05.602Z] 🚀 Automation triggered via API
+[2026-03-30T10:44:05.603Z] 🚀 Automation started
+[2026-03-30T10:44:05.603Z] ⏹ Automation Event Started
+[2026-03-30T10:44:05.607Z] 🚀 Automation triggered via API
+[2026-03-30T10:44:05.608Z] 🚀 Automation started
+[2026-03-30T10:44:05.608Z] ⏹ Automation Event Started
+[2026-03-30T10:44:05.864Z] Captcha image (Base64):
+[2026-03-30T10:44:05.880Z] Captcha image (Base64):
+[2026-03-30T10:44:05.942Z] Bill fetched:
+[2026-03-30T10:44:05.943Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:44:06.116Z] Bill fetched:
+[2026-03-30T10:44:06.116Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:44:06.974Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:44:07.045Z] Captcha image (Base64):
+[2026-03-30T10:44:07.123Z] Bill fetched:
+[2026-03-30T10:44:07.124Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:44:07.305Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:44:07.367Z] Captcha image (Base64):
+[2026-03-30T10:44:07.439Z] Bill fetched:
+[2026-03-30T10:44:07.439Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:44:07.789Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:44:07.848Z] Captcha image (Base64):
+[2026-03-30T10:44:07.910Z] Bill fetched:
+[2026-03-30T10:44:07.911Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:44:08.144Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:44:08.206Z] Captcha image (Base64):
+[2026-03-30T10:44:08.283Z] Bill fetched:
+[2026-03-30T10:44:08.283Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:44:08.644Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:44:08.708Z] Captcha image (Base64):
+[2026-03-30T10:44:08.770Z] Bill fetched:
+[2026-03-30T10:44:08.770Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:44:09.077Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:44:09.140Z] Captcha image (Base64):
+[2026-03-30T10:44:09.204Z] Bill fetched:
+[2026-03-30T10:44:09.204Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:44:09.568Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:44:09.569Z] ✅ All rows processed
+[2026-03-30T10:44:09.569Z] 🏁 Automation completed
+[2026-03-30T10:44:09.912Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:44:09.913Z] ✅ All rows processed
+[2026-03-30T10:44:09.913Z] 🏁 Automation completed
+[2026-03-30T10:45:14.183Z] Server running on http://localhost:4000
+[2026-03-30T10:45:14.198Z] ✅ MongoDB connected
+[2026-03-30T10:45:26.582Z] 🚀 Automation triggered via API
+[2026-03-30T10:45:26.583Z] 🚀 Automation started
+[2026-03-30T10:45:26.584Z] ⏹ Automation Event Started
+[2026-03-30T10:45:26.587Z] 🚀 Automation triggered via API
+[2026-03-30T10:45:26.587Z] 🚀 Automation started
+[2026-03-30T10:45:26.588Z] ⏹ Automation Event Started
+[2026-03-30T10:45:26.821Z] Captcha image (Base64):
+[2026-03-30T10:45:26.842Z] Captcha image (Base64):
+[2026-03-30T10:45:26.903Z] Bill fetched:
+[2026-03-30T10:45:26.903Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:45:27.074Z] Bill fetched:
+[2026-03-30T10:45:27.075Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:45:27.978Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:45:28.070Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:45:28.074Z] Captcha image (Base64):
+[2026-03-30T10:45:28.121Z] Captcha image (Base64):
+[2026-03-30T10:45:28.143Z] Bill fetched:
+[2026-03-30T10:45:28.143Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:45:28.182Z] Bill fetched:
+[2026-03-30T10:45:28.183Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:45:28.928Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:45:28.987Z] Captcha image (Base64):
+[2026-03-30T10:45:29.025Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:45:29.031Z] Bill fetched:
+[2026-03-30T10:45:29.032Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:45:29.087Z] Captcha image (Base64):
+[2026-03-30T10:45:29.131Z] Bill fetched:
+[2026-03-30T10:45:29.132Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:45:29.662Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:45:29.724Z] Captcha image (Base64):
+[2026-03-30T10:45:29.768Z] Bill fetched:
+[2026-03-30T10:45:29.769Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:45:29.797Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:45:29.859Z] Captcha image (Base64):
+[2026-03-30T10:45:29.905Z] Bill fetched:
+[2026-03-30T10:45:29.905Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:45:30.529Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:45:30.529Z] ✅ All rows processed
+[2026-03-30T10:45:30.530Z] 🏁 Automation completed
+[2026-03-30T10:45:30.674Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:45:30.675Z] ✅ All rows processed
+[2026-03-30T10:45:30.675Z] 🏁 Automation completed
+[2026-03-30T10:45:56.401Z] Server running on http://localhost:4000
+[2026-03-30T10:45:56.416Z] ✅ MongoDB connected
+[2026-03-30T10:46:02.978Z] Server running on http://localhost:4000
+[2026-03-30T10:46:02.995Z] ✅ MongoDB connected
+[2026-03-30T10:46:15.033Z] 🚀 Automation triggered via API
+[2026-03-30T10:46:15.034Z] 🚀 Automation started
+[2026-03-30T10:46:15.035Z] ⏹ Automation Event Started
+[2026-03-30T10:46:15.037Z] 🚀 Automation triggered via API
+[2026-03-30T10:46:15.038Z] 🚀 Automation started
+[2026-03-30T10:46:15.038Z] ⏹ Automation Event Started
+[2026-03-30T10:46:15.286Z] Captcha image (Base64):
+[2026-03-30T10:46:15.291Z] Captcha image (Base64):
+[2026-03-30T10:46:15.350Z] Bill fetched:
+[2026-03-30T10:46:15.350Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:46:15.538Z] Bill fetched:
+[2026-03-30T10:46:15.538Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:46:16.272Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:46:16.337Z] Captcha image (Base64):
+[2026-03-30T10:46:16.373Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:46:16.397Z] Bill fetched:
+[2026-03-30T10:46:16.398Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:46:16.434Z] Captcha image (Base64):
+[2026-03-30T10:46:16.508Z] Bill fetched:
+[2026-03-30T10:46:16.509Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:46:17.004Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:46:17.061Z] Captcha image (Base64):
+[2026-03-30T10:46:17.121Z] Bill fetched:
+[2026-03-30T10:46:17.122Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:46:17.208Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:46:17.272Z] Captcha image (Base64):
+[2026-03-30T10:46:17.331Z] Bill fetched:
+[2026-03-30T10:46:17.333Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:46:17.548Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:46:17.608Z] Captcha image (Base64):
+[2026-03-30T10:46:17.662Z] Bill fetched:
+[2026-03-30T10:46:17.663Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:46:19.122Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:46:19.180Z] Captcha image (Base64):
+[2026-03-30T10:46:19.243Z] Bill fetched:
+[2026-03-30T10:46:19.244Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:46:19.871Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:46:19.871Z] ✅ All rows processed
+[2026-03-30T10:46:19.871Z] 🏁 Automation completed
+[2026-03-30T10:46:20.000Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:46:20.000Z] ✅ All rows processed
+[2026-03-30T10:46:20.001Z] 🏁 Automation completed
+[2026-03-30T10:46:56.847Z] Server running on http://localhost:4000
+[2026-03-30T10:46:56.862Z] ✅ MongoDB connected
+[2026-03-30T10:47:37.491Z] 🚀 Automation triggered via API
+[2026-03-30T10:47:37.492Z] 🚀 Automation started
+[2026-03-30T10:47:37.493Z] ⏹ Automation Event Started
+[2026-03-30T10:47:37.496Z] 🚀 Automation triggered via API
+[2026-03-30T10:47:37.497Z] 🚀 Automation started
+[2026-03-30T10:47:37.497Z] ⏹ Automation Event Started
+[2026-03-30T10:47:37.759Z] Captcha image (Base64):
+[2026-03-30T10:47:37.764Z] Captcha image (Base64):
+[2026-03-30T10:47:37.825Z] Bill fetched:
+[2026-03-30T10:47:37.826Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:47:38.069Z] Bill fetched:
+[2026-03-30T10:47:38.070Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:47:38.863Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:47:38.924Z] Captcha image (Base64):
+[2026-03-30T10:47:38.987Z] Bill fetched:
+[2026-03-30T10:47:38.988Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:47:39.347Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:47:39.403Z] Captcha image (Base64):
+[2026-03-30T10:47:39.464Z] Bill fetched:
+[2026-03-30T10:47:39.465Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:47:39.609Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:47:39.672Z] Captcha image (Base64):
+[2026-03-30T10:47:39.751Z] Bill fetched:
+[2026-03-30T10:47:39.751Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:47:40.369Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:47:40.444Z] Captcha image (Base64):
+[2026-03-30T10:47:40.491Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:47:40.503Z] Bill fetched:
+[2026-03-30T10:47:40.503Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:47:40.551Z] Captcha image (Base64):
+[2026-03-30T10:47:40.629Z] Bill fetched:
+[2026-03-30T10:47:40.630Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:47:41.286Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:47:41.347Z] Captcha image (Base64):
+[2026-03-30T10:47:41.385Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:47:41.385Z] ✅ All rows processed
+[2026-03-30T10:47:41.385Z] 🏁 Automation completed
+[2026-03-30T10:47:41.408Z] Bill fetched:
+[2026-03-30T10:47:41.409Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:47:41.687Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:47:41.687Z] ✅ All rows processed
+[2026-03-30T10:47:41.687Z] 🏁 Automation completed
+[2026-03-30T10:48:17.774Z] Server running on http://localhost:4000
+[2026-03-30T10:48:17.790Z] ✅ MongoDB connected
+[2026-03-30T10:48:36.957Z] 🚀 Automation triggered via API
+[2026-03-30T10:48:36.957Z] 🚀 Automation started
+[2026-03-30T10:48:36.958Z] ⏹ Automation Event Started
+[2026-03-30T10:48:36.962Z] 🚀 Automation triggered via API
+[2026-03-30T10:48:36.962Z] 🚀 Automation started
+[2026-03-30T10:48:36.963Z] ⏹ Automation Event Started
+[2026-03-30T10:48:37.625Z] Captcha image (Base64):
+[2026-03-30T10:48:37.655Z] Captcha image (Base64):
+[2026-03-30T10:48:37.716Z] Bill fetched:
+[2026-03-30T10:48:37.716Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:48:37.881Z] Bill fetched:
+[2026-03-30T10:48:37.881Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:48:38.835Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:48:38.878Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:48:38.894Z] Captcha image (Base64):
+[2026-03-30T10:48:38.937Z] Captcha image (Base64):
+[2026-03-30T10:48:38.956Z] Bill fetched:
+[2026-03-30T10:48:38.957Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:48:39.002Z] Bill fetched:
+[2026-03-30T10:48:39.002Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:48:39.629Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:48:39.687Z] Captcha image (Base64):
+[2026-03-30T10:48:39.749Z] Bill fetched:
+[2026-03-30T10:48:39.749Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:48:39.779Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:48:39.852Z] Captcha image (Base64):
+[2026-03-30T10:48:39.912Z] Bill fetched:
+[2026-03-30T10:48:39.913Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:48:40.345Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:48:40.404Z] Captcha image (Base64):
+[2026-03-30T10:48:40.463Z] Bill fetched:
+[2026-03-30T10:48:40.464Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:48:40.653Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:48:40.715Z] Captcha image (Base64):
+[2026-03-30T10:48:40.778Z] Bill fetched:
+[2026-03-30T10:48:40.778Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:48:41.414Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:48:41.415Z] ✅ All rows processed
+[2026-03-30T10:48:41.415Z] 🏁 Automation completed
+[2026-03-30T10:48:41.707Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:48:41.707Z] ✅ All rows processed
+[2026-03-30T10:48:41.708Z] 🏁 Automation completed
+[2026-03-30T10:48:56.184Z] Server running on http://localhost:4000
+[2026-03-30T10:48:56.201Z] ✅ MongoDB connected
+[2026-03-30T10:48:57.181Z] Server running on http://localhost:4000
+[2026-03-30T10:48:57.195Z] ✅ MongoDB connected
+[2026-03-30T10:49:06.747Z] Server running on http://localhost:4000
+[2026-03-30T10:49:06.760Z] ✅ MongoDB connected
+[2026-03-30T10:49:24.679Z] 🚀 Automation triggered via API
+[2026-03-30T10:49:24.680Z] 🚀 Automation started
+[2026-03-30T10:49:24.681Z] ⏹ Automation Event Started
+[2026-03-30T10:49:24.684Z] 🚀 Automation triggered via API
+[2026-03-30T10:49:24.684Z] 🚀 Automation started
+[2026-03-30T10:49:24.685Z] ⏹ Automation Event Started
+[2026-03-30T10:49:24.956Z] Captcha image (Base64):
+[2026-03-30T10:49:24.968Z] Captcha image (Base64):
+[2026-03-30T10:49:25.030Z] Bill fetched:
+[2026-03-30T10:49:25.031Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:49:25.196Z] Bill fetched:
+[2026-03-30T10:49:25.196Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:49:26.004Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:49:26.068Z] Captcha image (Base64):
+[2026-03-30T10:49:26.155Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:49:26.158Z] Bill fetched:
+[2026-03-30T10:49:26.158Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:49:26.215Z] Captcha image (Base64):
+[2026-03-30T10:49:26.277Z] Bill fetched:
+[2026-03-30T10:49:26.278Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:49:26.929Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:49:26.990Z] Captcha image (Base64):
+[2026-03-30T10:49:27.052Z] Bill fetched:
+[2026-03-30T10:49:27.052Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:49:27.215Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:49:27.272Z] Captcha image (Base64):
+[2026-03-30T10:49:27.334Z] Bill fetched:
+[2026-03-30T10:49:27.335Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:49:27.810Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:49:27.867Z] Captcha image (Base64):
+[2026-03-30T10:49:27.927Z] Bill fetched:
+[2026-03-30T10:49:27.927Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:49:28.152Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:49:28.212Z] Captcha image (Base64):
+[2026-03-30T10:49:28.274Z] Bill fetched:
+[2026-03-30T10:49:28.275Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:49:28.772Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:49:28.773Z] ✅ All rows processed
+[2026-03-30T10:49:28.773Z] 🏁 Automation completed
+[2026-03-30T10:49:29.073Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:49:29.074Z] ✅ All rows processed
+[2026-03-30T10:49:29.074Z] 🏁 Automation completed
+[2026-03-30T10:50:11.675Z] Server running on http://localhost:4000
+[2026-03-30T10:50:11.690Z] ✅ MongoDB connected
+[2026-03-30T10:50:28.706Z] 🚀 Automation triggered via API
+[2026-03-30T10:50:28.707Z] 🚀 Automation started
+[2026-03-30T10:50:28.708Z] ⏹ Automation Event Started
+[2026-03-30T10:50:28.711Z] 🚀 Automation triggered via API
+[2026-03-30T10:50:28.712Z] 🚀 Automation started
+[2026-03-30T10:50:28.712Z] ⏹ Automation Event Started
+[2026-03-30T10:50:28.965Z] Captcha image (Base64):
+[2026-03-30T10:50:28.988Z] Captcha image (Base64):
+[2026-03-30T10:50:29.051Z] Bill fetched:
+[2026-03-30T10:50:29.052Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:50:29.170Z] Bill fetched:
+[2026-03-30T10:50:29.171Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:50:30.203Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:50:30.260Z] Captcha image (Base64):
+[2026-03-30T10:50:30.324Z] Bill fetched:
+[2026-03-30T10:50:30.324Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:50:30.495Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:50:30.549Z] Captcha image (Base64):
+[2026-03-30T10:50:30.609Z] Bill fetched:
+[2026-03-30T10:50:30.610Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:50:31.145Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:50:31.202Z] Captcha image (Base64):
+[2026-03-30T10:50:31.264Z] Bill fetched:
+[2026-03-30T10:50:31.264Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:50:31.321Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:50:31.380Z] Captcha image (Base64):
+[2026-03-30T10:50:31.443Z] Bill fetched:
+[2026-03-30T10:50:31.443Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:50:32.254Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:50:32.311Z] Captcha image (Base64):
+[2026-03-30T10:50:32.374Z] Bill fetched:
+[2026-03-30T10:50:32.374Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:50:32.843Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:50:32.899Z] Captcha image (Base64):
+[2026-03-30T10:50:32.968Z] Bill fetched:
+[2026-03-30T10:50:32.969Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:50:33.716Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:50:33.716Z] ✅ All rows processed
+[2026-03-30T10:50:33.716Z] 🏁 Automation completed
+[2026-03-30T10:50:33.974Z] ❌ Transaction failed: undefined - 
+[2026-03-30T10:50:33.975Z] ✅ All rows processed
+[2026-03-30T10:50:33.975Z] 🏁 Automation completed
+[2026-03-30T10:51:10.016Z] Server running on http://localhost:4000
+[2026-03-30T10:51:10.031Z] ✅ MongoDB connected
+[2026-03-30T10:51:18.530Z] Server running on http://localhost:4000
+[2026-03-30T10:51:18.545Z] ✅ MongoDB connected
+[2026-03-30T10:51:41.820Z] 🚀 Automation triggered via API
+[2026-03-30T10:51:41.821Z] 🚀 Automation started
+[2026-03-30T10:51:41.822Z] ⏹ Automation Event Started
+[2026-03-30T10:51:41.825Z] 🚀 Automation triggered via API
+[2026-03-30T10:51:41.825Z] 🚀 Automation started
+[2026-03-30T10:51:41.826Z] ⏹ Automation Event Started
+[2026-03-30T10:51:42.092Z] Captcha image (Base64):
+[2026-03-30T10:51:42.098Z] Captcha image (Base64):
+[2026-03-30T10:51:42.161Z] Bill fetched:
+[2026-03-30T10:51:42.162Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:51:42.328Z] Bill fetched:
+[2026-03-30T10:51:42.328Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:51:43.464Z] ✅ Transaction updated: undefined
+[2026-03-30T10:51:43.522Z] Captcha image (Base64):
+[2026-03-30T10:51:43.578Z] ✅ Transaction updated: undefined
+[2026-03-30T10:51:43.581Z] Bill fetched:
+[2026-03-30T10:51:43.582Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:51:43.638Z] Captcha image (Base64):
+[2026-03-30T10:51:43.699Z] Bill fetched:
+[2026-03-30T10:51:43.700Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:51:44.534Z] ✅ Transaction updated: undefined
+[2026-03-30T10:51:44.536Z] ✅ Transaction updated: undefined
+[2026-03-30T10:51:44.594Z] Captcha image (Base64):
+[2026-03-30T10:51:44.627Z] Captcha image (Base64):
+[2026-03-30T10:51:44.655Z] Bill fetched:
+[2026-03-30T10:51:44.655Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:51:44.686Z] Bill fetched:
+[2026-03-30T10:51:44.687Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:51:45.492Z] ✅ Transaction updated: undefined
+[2026-03-30T10:51:45.546Z] Captcha image (Base64):
+[2026-03-30T10:51:45.613Z] Bill fetched:
+[2026-03-30T10:51:45.614Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:51:45.615Z] ✅ Transaction updated: undefined
+[2026-03-30T10:51:45.675Z] Captcha image (Base64):
+[2026-03-30T10:51:45.735Z] Bill fetched:
+[2026-03-30T10:51:45.736Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T10:51:46.401Z] ✅ Transaction updated: undefined
+[2026-03-30T10:51:46.401Z] ✅ All rows processed
+[2026-03-30T10:51:46.401Z] 🏁 Automation completed
+[2026-03-30T10:51:46.530Z] ✅ Transaction updated: undefined
+[2026-03-30T10:51:46.530Z] ✅ All rows processed
+[2026-03-30T10:51:46.530Z] 🏁 Automation completed
+[2026-03-30T11:02:18.729Z] 🚀 Automation triggered via API
+[2026-03-30T11:02:18.730Z] 🚀 Automation started
+[2026-03-30T11:02:18.731Z] ⏹ Automation Event Started
+[2026-03-30T11:02:18.736Z] ✅ All rows processed
+[2026-03-30T11:02:18.736Z] 🏁 Automation completed
+[2026-03-30T11:02:23.067Z] 🚀 Automation triggered via API
+[2026-03-30T11:02:23.067Z] 🚀 Automation started
+[2026-03-30T11:02:23.068Z] ⏹ Automation Event Started
+[2026-03-30T11:02:23.071Z] ✅ All rows processed
+[2026-03-30T11:02:23.071Z] 🏁 Automation completed
+[2026-03-30T11:02:29.619Z] 🚀 Automation triggered via API
+[2026-03-30T11:02:29.620Z] 🚀 Automation started
+[2026-03-30T11:02:29.620Z] ⏹ Automation Event Started
+[2026-03-30T11:02:29.623Z] ✅ All rows processed
+[2026-03-30T11:02:29.624Z] 🏁 Automation completed
+[2026-03-30T11:02:33.722Z] 🚀 Automation triggered via API
+[2026-03-30T11:02:33.723Z] 🚀 Automation started
+[2026-03-30T11:02:33.723Z] ⏹ Automation Event Started
+[2026-03-30T11:02:33.726Z] ✅ All rows processed
+[2026-03-30T11:02:33.727Z] 🏁 Automation completed
+[2026-03-30T11:02:36.650Z] 🚀 Automation triggered via API
+[2026-03-30T11:02:36.651Z] 🚀 Automation started
+[2026-03-30T11:02:36.652Z] ⏹ Automation Event Started
+[2026-03-30T11:02:36.655Z] ✅ All rows processed
+[2026-03-30T11:02:36.655Z] 🏁 Automation completed
+[2026-03-30T11:02:49.882Z] 🚀 Automation triggered via API
+[2026-03-30T11:02:49.883Z] 🚀 Automation started
+[2026-03-30T11:02:49.883Z] ⏹ Automation Event Started
+[2026-03-30T11:02:50.145Z] Captcha image (Base64):
+[2026-03-30T11:02:50.367Z] Bill fetched:
+[2026-03-30T11:02:50.368Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T11:02:51.827Z] ✅ Transaction updated: undefined
+[2026-03-30T11:02:51.888Z] Captcha image (Base64):
+[2026-03-30T11:02:51.948Z] Bill fetched:
+[2026-03-30T11:02:51.948Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T11:02:52.725Z] ✅ Transaction updated: undefined
+[2026-03-30T11:02:52.790Z] Captcha image (Base64):
+[2026-03-30T11:02:52.848Z] Bill fetched:
+[2026-03-30T11:02:52.849Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T11:02:53.966Z] ✅ Transaction updated: undefined
+[2026-03-30T11:02:54.027Z] Captcha image (Base64):
+[2026-03-30T11:02:54.088Z] Bill fetched:
+[2026-03-30T11:02:54.088Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T11:02:54.989Z] ✅ Transaction updated: undefined
+[2026-03-30T11:02:54.989Z] ✅ All rows processed
+[2026-03-30T11:02:54.990Z] 🏁 Automation completed
+[2026-03-30T11:03:30.892Z] 🚀 Automation triggered via API
+[2026-03-30T11:03:30.892Z] 🚀 Automation started
+[2026-03-30T11:03:30.893Z] ⏹ Automation Event Started
+[2026-03-30T11:03:30.896Z] ✅ All rows processed
+[2026-03-30T11:03:30.897Z] 🏁 Automation completed
+[2026-03-30T11:03:34.915Z] 🚀 Automation triggered via API
+[2026-03-30T11:03:34.916Z] 🚀 Automation started
+[2026-03-30T11:03:34.916Z] ⏹ Automation Event Started
+[2026-03-30T11:03:34.921Z] ✅ All rows processed
+[2026-03-30T11:03:34.921Z] 🏁 Automation completed
+[2026-03-30T11:06:29.630Z] 🚀 Automation triggered via API
+[2026-03-30T11:06:29.631Z] 🚀 Automation started
+[2026-03-30T11:06:29.631Z] ⏹ Automation Event Started
+[2026-03-30T11:06:29.633Z] 🚀 Automation triggered via API
+[2026-03-30T11:06:29.634Z] 🚀 Automation started
+[2026-03-30T11:06:29.634Z] ⏹ Automation Event Started
+[2026-03-30T11:06:29.637Z] ✅ All rows processed
+[2026-03-30T11:06:29.637Z] 🏁 Automation completed
+[2026-03-30T11:06:29.639Z] ✅ All rows processed
+[2026-03-30T11:06:29.640Z] 🏁 Automation completed
+[2026-03-30T11:06:32.526Z] 🚀 Automation triggered via API
+[2026-03-30T11:06:32.527Z] 🚀 Automation started
+[2026-03-30T11:06:32.527Z] ⏹ Automation Event Started
+[2026-03-30T11:06:32.530Z] 🚀 Automation triggered via API
+[2026-03-30T11:06:32.530Z] 🚀 Automation started
+[2026-03-30T11:06:32.531Z] ⏹ Automation Event Started
+[2026-03-30T11:06:32.532Z] ✅ All rows processed
+[2026-03-30T11:06:32.533Z] 🏁 Automation completed
+[2026-03-30T11:06:32.535Z] ✅ All rows processed
+[2026-03-30T11:06:32.535Z] 🏁 Automation completed
+[2026-03-30T11:06:35.830Z] 🚀 Automation triggered via API
+[2026-03-30T11:06:35.831Z] 🚀 Automation started
+[2026-03-30T11:06:35.831Z] ⏹ Automation Event Started
+[2026-03-30T11:06:35.834Z] 🚀 Automation triggered via API
+[2026-03-30T11:06:35.834Z] 🚀 Automation started
+[2026-03-30T11:06:35.835Z] ⏹ Automation Event Started
+[2026-03-30T11:06:35.837Z] ✅ All rows processed
+[2026-03-30T11:06:35.837Z] 🏁 Automation completed
+[2026-03-30T11:06:35.839Z] ✅ All rows processed
+[2026-03-30T11:06:35.840Z] 🏁 Automation completed
+[2026-03-30T11:10:30.814Z] 🚀 Automation triggered via API
+[2026-03-30T11:10:30.815Z] 🚀 Automation started
+[2026-03-30T11:10:30.816Z] ⏹ Automation Event Started
+[2026-03-30T11:10:30.818Z] ✅ All rows processed
+[2026-03-30T11:10:30.819Z] 🏁 Automation completed
+[2026-03-30T11:11:14.026Z] Server running on http://localhost:4000
+[2026-03-30T11:11:14.041Z] ✅ MongoDB connected
+[2026-03-30T11:11:34.896Z] 🚀 Automation triggered via API
+[2026-03-30T11:11:34.897Z] 🚀 Automation started
+[2026-03-30T11:11:34.898Z] ⏹ Automation Event Started
+[2026-03-30T11:11:35.200Z] Captcha image (Base64):
+[2026-03-30T11:11:35.450Z] Bill fetched:
+[2026-03-30T11:11:35.451Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T11:11:36.891Z] ✅ Transaction updated: undefined
+[2026-03-30T11:11:36.957Z] Captcha image (Base64):
+[2026-03-30T11:11:37.018Z] Bill fetched:
+[2026-03-30T11:11:37.019Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T11:11:37.623Z] ✅ Transaction updated: undefined
+[2026-03-30T11:11:37.688Z] Captcha image (Base64):
+[2026-03-30T11:11:37.753Z] Bill fetched:
+[2026-03-30T11:11:37.754Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T11:11:38.916Z] ✅ Transaction updated: undefined
+[2026-03-30T11:11:38.997Z] Captcha image (Base64):
+[2026-03-30T11:11:39.070Z] Bill fetched:
+[2026-03-30T11:11:39.071Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T11:11:40.603Z] ✅ Transaction updated: undefined
+[2026-03-30T11:11:40.604Z] ✅ All rows processed
+[2026-03-30T11:11:40.604Z] 🏁 Automation completed
+[2026-03-30T11:14:41.270Z] 🚀 Automation triggered via API
+[2026-03-30T11:14:41.270Z] 🚀 Automation started
+[2026-03-30T11:14:41.271Z] ⏹ Automation Event Started
+[2026-03-30T11:14:41.531Z] Captcha image (Base64):
+[2026-03-30T11:14:41.738Z] Bill fetched:
+[2026-03-30T11:14:41.739Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T11:14:42.639Z] ✅ Transaction updated: undefined
+[2026-03-30T11:14:42.697Z] Captcha image (Base64):
+[2026-03-30T11:14:42.744Z] Bill fetched:
+[2026-03-30T11:14:42.744Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T11:14:43.505Z] ✅ Transaction updated: undefined
+[2026-03-30T11:14:43.566Z] Captcha image (Base64):
+[2026-03-30T11:14:43.612Z] Bill fetched:
+[2026-03-30T11:14:43.613Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T11:14:44.303Z] ✅ Transaction updated: undefined
+[2026-03-30T11:14:44.363Z] Captcha image (Base64):
+[2026-03-30T11:14:44.410Z] Bill fetched:
+[2026-03-30T11:14:44.411Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T11:14:45.155Z] ✅ Transaction updated: undefined
+[2026-03-30T11:14:45.155Z] ✅ All rows processed
+[2026-03-30T11:14:45.155Z] 🏁 Automation completed
+[2026-03-30T11:16:34.362Z] 🚀 Automation triggered via API
+[2026-03-30T11:16:34.362Z] 🚀 Automation started
+[2026-03-30T11:16:34.363Z] ⏹ Automation Event Started
+[2026-03-30T11:16:34.598Z] Captcha image (Base64):
+[2026-03-30T11:16:34.971Z] Bill fetched:
+[2026-03-30T11:16:34.972Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T11:16:35.839Z] ✅ Transaction updated: undefined
+[2026-03-30T11:16:35.897Z] Captcha image (Base64):
+[2026-03-30T11:16:35.957Z] Bill fetched:
+[2026-03-30T11:16:35.958Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T11:16:36.731Z] ✅ Transaction updated: undefined
+[2026-03-30T11:16:36.803Z] Captcha image (Base64):
+[2026-03-30T11:16:36.859Z] Bill fetched:
+[2026-03-30T11:16:36.860Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T11:16:37.712Z] ✅ Transaction updated: undefined
+[2026-03-30T11:16:37.784Z] Captcha image (Base64):
+[2026-03-30T11:16:37.846Z] Bill fetched:
+[2026-03-30T11:16:37.846Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T11:16:38.700Z] ✅ Transaction updated: undefined
+[2026-03-30T11:16:38.701Z] ✅ All rows processed
+[2026-03-30T11:16:38.701Z] 🏁 Automation completed
+[2026-03-30T11:18:24.412Z] Server running on http://localhost:4000
+[2026-03-30T11:18:24.426Z] ✅ MongoDB connected
+[2026-03-30T11:18:27.493Z] Server running on http://localhost:4000
+[2026-03-30T11:18:27.507Z] ✅ MongoDB connected
+[2026-03-30T11:18:58.418Z] 🚀 Automation triggered via API
+[2026-03-30T11:18:58.419Z] 🚀 Automation started
+[2026-03-30T11:18:58.420Z] ⏹ Automation Event Started
+[2026-03-30T11:18:58.849Z] Captcha image (Base64):
+[2026-03-30T11:18:59.091Z] Bill fetched:
+[2026-03-30T11:18:59.091Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T11:19:00.400Z] ✅ Transaction updated: undefined
+[2026-03-30T11:19:00.484Z] Captcha image (Base64):
+[2026-03-30T11:19:00.543Z] Bill fetched:
+[2026-03-30T11:19:00.544Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T11:19:01.450Z] ✅ Transaction updated: undefined
+[2026-03-30T11:19:01.535Z] Captcha image (Base64):
+[2026-03-30T11:19:01.596Z] Bill fetched:
+[2026-03-30T11:19:01.596Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T11:19:02.414Z] ✅ Transaction updated: undefined
+[2026-03-30T11:19:02.499Z] Captcha image (Base64):
+[2026-03-30T11:19:02.560Z] Bill fetched:
+[2026-03-30T11:19:02.561Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T11:19:03.177Z] ✅ Transaction updated: undefined
+[2026-03-30T11:19:03.178Z] ✅ All rows processed
+[2026-03-30T11:19:03.178Z] 🏁 Automation completed
+[2026-03-30T11:21:03.984Z] 🚀 Automation triggered via API
+[2026-03-30T11:21:03.984Z] 🚀 Automation started
+[2026-03-30T11:21:03.985Z] ⏹ Automation Event Started
+[2026-03-30T11:21:04.228Z] Captcha image (Base64):
+[2026-03-30T11:21:04.452Z] Bill fetched:
+[2026-03-30T11:21:04.453Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T11:21:05.649Z] ✅ Transaction updated: undefined
+[2026-03-30T11:21:05.712Z] Captcha image (Base64):
+[2026-03-30T11:21:05.771Z] Bill fetched:
+[2026-03-30T11:21:05.772Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T11:21:06.523Z] ✅ Transaction updated: undefined
+[2026-03-30T11:21:06.582Z] Captcha image (Base64):
+[2026-03-30T11:21:06.641Z] Bill fetched:
+[2026-03-30T11:21:06.641Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T11:21:07.427Z] ✅ Transaction updated: undefined
+[2026-03-30T11:21:07.486Z] Captcha image (Base64):
+[2026-03-30T11:21:07.546Z] Bill fetched:
+[2026-03-30T11:21:07.547Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-30T11:21:08.238Z] ✅ Transaction updated: undefined
+[2026-03-30T11:21:08.238Z] ✅ All rows processed
+[2026-03-30T11:21:08.238Z] 🏁 Automation completed
+[2026-03-30T11:26:30.815Z] Server running on http://localhost:4000
+[2026-03-30T11:26:30.838Z] ✅ MongoDB connected
+[2026-03-30T11:26:33.558Z] Server running on http://localhost:4000
+[2026-03-30T11:26:33.572Z] ✅ MongoDB connected
+[2026-03-30T11:26:35.026Z] Server running on http://localhost:4000
+[2026-03-30T11:26:35.039Z] ✅ MongoDB connected
+[2026-03-30T11:26:42.710Z] Server running on http://localhost:4000
+[2026-03-30T11:26:42.723Z] ✅ MongoDB connected
+[2026-03-30T11:26:56.320Z] Server running on http://localhost:4000
+[2026-03-30T11:26:56.333Z] ✅ MongoDB connected
+[2026-03-30T11:26:58.167Z] Server running on http://localhost:4000
+[2026-03-30T11:26:58.181Z] ✅ MongoDB connected
+[2026-03-30T11:27:06.275Z] Server running on http://localhost:4000
+[2026-03-30T11:27:06.289Z] ✅ MongoDB connected
+[2026-03-30T11:27:26.924Z] Server running on http://localhost:4000
+[2026-03-30T11:27:26.944Z] ✅ MongoDB connected
+[2026-03-30T11:28:20.470Z] Server running on http://localhost:4000
+[2026-03-30T11:28:20.485Z] ✅ MongoDB connected
+[2026-03-30T11:30:56.946Z] Server running on http://localhost:4000
+[2026-03-30T11:30:56.961Z] ✅ MongoDB connected
+[2026-03-30T11:31:01.028Z] Server running on http://localhost:4000
+[2026-03-30T11:31:01.043Z] ✅ MongoDB connected
+[2026-03-30T11:32:32.212Z] Server running on http://localhost:4000
+[2026-03-30T11:32:32.232Z] ✅ MongoDB connected
+[2026-03-30T11:32:51.239Z] Server running on http://localhost:4000
+[2026-03-30T11:32:51.252Z] ✅ MongoDB connected
+[2026-03-30T12:00:00.786Z] Server running on http://localhost:4000
+[2026-03-30T12:00:00.801Z] ✅ MongoDB connected
+[2026-03-30T12:00:14.215Z] Server running on http://localhost:4000
+[2026-03-30T12:00:14.232Z] ✅ MongoDB connected
+[2026-03-30T12:00:24.034Z] Server running on http://localhost:4000
+[2026-03-30T12:00:24.057Z] ✅ MongoDB connected
+[2026-03-30T12:01:16.407Z] Server running on http://localhost:4000
+[2026-03-30T12:01:16.424Z] ✅ MongoDB connected
+[2026-03-30T12:01:19.201Z] Server running on http://localhost:4000
+[2026-03-30T12:01:19.215Z] ✅ MongoDB connected
+[2026-03-30T12:01:20.877Z] Server running on http://localhost:4000
+[2026-03-30T12:01:20.891Z] ✅ MongoDB connected

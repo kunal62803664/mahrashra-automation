@@ -1,0 +1,235 @@
+[2026-03-31T06:46:43.165Z] Server running on http://localhost:3000
+[2026-03-31T06:46:43.179Z] ✅ MongoDB connected
+[2026-03-31T06:50:26.371Z] Server running on http://localhost:3000
+[2026-03-31T06:50:26.385Z] ✅ MongoDB connected
+[2026-03-31T06:57:39.382Z] Server running on http://localhost:3000
+[2026-03-31T06:57:39.397Z] ✅ MongoDB connected
+[2026-03-31T06:57:43.207Z] Server running on http://localhost:3000
+[2026-03-31T06:57:43.224Z] ✅ MongoDB connected
+[2026-03-31T07:04:35.394Z] 🚀 Automation triggered via API
+[2026-03-31T07:04:35.395Z] 🚀 Automation started
+[2026-03-31T07:04:35.396Z] ⏹ Automation Event Started
+[2026-03-31T07:04:35.755Z] Captcha image (Base64):
+[2026-03-31T07:04:36.085Z] Bill fetched:
+[2026-03-31T07:04:36.086Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-31T07:04:37.182Z] ❌ Transaction failed: undefined - 
+[2026-03-31T07:04:37.183Z] ✅ All rows processed
+[2026-03-31T07:04:37.183Z] 🏁 Automation completed
+[2026-03-31T07:05:18.179Z] Server running on http://localhost:3000
+[2026-03-31T07:05:18.192Z] ✅ MongoDB connected
+[2026-03-31T07:05:28.597Z] 🚀 Automation triggered via API
+[2026-03-31T07:05:28.597Z] 🚀 Automation started
+[2026-03-31T07:05:28.598Z] ⏹ Automation Event Started
+[2026-03-31T07:05:28.864Z] Captcha image (Base64):
+[2026-03-31T07:05:29.186Z] Bill fetched:
+[2026-03-31T07:05:29.187Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-31T07:05:30.078Z] ❌ Transaction failed: undefined - 
+[2026-03-31T07:05:30.078Z] ✅ All rows processed
+[2026-03-31T07:05:30.079Z] 🏁 Automation completed
+[2026-03-31T07:05:47.468Z] 🚀 Automation triggered via API
+[2026-03-31T07:05:47.469Z] 🚀 Automation started
+[2026-03-31T07:05:47.469Z] ⏹ Automation Event Started
+[2026-03-31T07:05:47.720Z] Captcha image (Base64):
+[2026-03-31T07:05:47.951Z] Bill fetched:
+[2026-03-31T07:05:47.952Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-31T07:05:49.213Z] ❌ Transaction failed: undefined - 
+[2026-03-31T07:05:49.214Z] ✅ All rows processed
+[2026-03-31T07:05:49.214Z] 🏁 Automation completed
+[2026-03-31T07:06:19.720Z] Server running on http://localhost:3000
+[2026-03-31T07:06:19.733Z] ✅ MongoDB connected
+[2026-03-31T07:06:30.715Z] Server running on http://localhost:3000
+[2026-03-31T07:06:30.734Z] ✅ MongoDB connected
+[2026-03-31T07:07:17.703Z] 🚀 Automation triggered via API
+[2026-03-31T07:07:17.704Z] 🚀 Automation started
+[2026-03-31T07:07:17.705Z] ⏹ Automation Event Started
+[2026-03-31T07:07:18.333Z] Captcha image (Base64):
+[2026-03-31T07:07:18.561Z] Bill fetched:
+[2026-03-31T07:07:18.562Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-31T07:07:19.905Z] ❌ Transaction failed: undefined - 
+[2026-03-31T07:07:19.906Z] ✅ All rows processed
+[2026-03-31T07:07:19.906Z] 🏁 Automation completed
+[2026-03-31T07:14:09.917Z] Server running on http://localhost:3000
+[2026-03-31T07:14:09.931Z] ✅ MongoDB connected
+[2026-03-31T07:14:12.013Z] Server running on http://localhost:3000
+[2026-03-31T07:14:12.028Z] ✅ MongoDB connected
+[2026-03-31T07:14:15.522Z] Server running on http://localhost:3000
+[2026-03-31T07:14:15.536Z] ✅ MongoDB connected
+[2026-03-31T07:14:24.401Z] Server running on http://localhost:3000
+[2026-03-31T07:14:24.415Z] ✅ MongoDB connected
+[2026-03-31T07:14:28.992Z] Server running on http://localhost:3000
+[2026-03-31T07:14:29.007Z] ✅ MongoDB connected
+[2026-03-31T07:14:31.937Z] Server running on http://localhost:3000
+[2026-03-31T07:14:31.951Z] ✅ MongoDB connected
+[2026-03-31T07:14:33.560Z] Server running on http://localhost:3000
+[2026-03-31T07:14:33.574Z] ✅ MongoDB connected
+[2026-03-31T07:14:42.259Z] Server running on http://localhost:3000
+[2026-03-31T07:14:42.272Z] ✅ MongoDB connected
+[2026-03-31T07:14:46.450Z] Server running on http://localhost:3000
+[2026-03-31T07:14:46.463Z] ✅ MongoDB connected
+[2026-03-31T07:14:54.868Z] 🚀 Automation triggered via API
+[2026-03-31T07:14:54.870Z] 🚀 Automation started
+[2026-03-31T07:14:54.871Z] ⏹ Automation Event Started
+[2026-03-31T07:14:55.129Z] Captcha image (Base64):
+[2026-03-31T07:14:55.351Z] Bill fetched:
+[2026-03-31T07:14:55.352Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-31T07:14:56.780Z] ❌ Transaction failed: undefined - 
+[2026-03-31T07:14:56.781Z] ✅ All rows processed
+[2026-03-31T07:14:56.781Z] 🏁 Automation completed
+[2026-03-31T07:15:27.139Z] Server running on http://localhost:3000
+[2026-03-31T07:15:27.153Z] ✅ MongoDB connected
+[2026-03-31T07:15:31.967Z] Server running on http://localhost:3000
+[2026-03-31T07:15:31.981Z] ✅ MongoDB connected
+[2026-03-31T07:15:34.718Z] Server running on http://localhost:3000
+[2026-03-31T07:15:34.732Z] ✅ MongoDB connected
+[2026-03-31T07:15:50.293Z] 🚀 Automation triggered via API
+[2026-03-31T07:15:50.294Z] 🚀 Automation started
+[2026-03-31T07:15:50.295Z] ⏹ Automation Event Started
+[2026-03-31T07:15:50.525Z] Captcha image (Base64):
+[2026-03-31T07:15:50.809Z] Bill fetched:
+[2026-03-31T07:15:50.810Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-31T07:15:52.055Z] ❌ Transaction failed: undefined - 
+[2026-03-31T07:15:52.056Z] ✅ All rows processed
+[2026-03-31T07:15:52.056Z] 🏁 Automation completed
+[2026-03-31T07:20:28.180Z] Server running on http://localhost:3000
+[2026-03-31T07:20:28.197Z] ✅ MongoDB connected
+[2026-03-31T07:20:31.083Z] Server running on http://localhost:3000
+[2026-03-31T07:20:31.099Z] ✅ MongoDB connected
+[2026-03-31T07:20:32.431Z] Server running on http://localhost:3000
+[2026-03-31T07:20:32.446Z] ✅ MongoDB connected
+[2026-03-31T07:20:33.428Z] Server running on http://localhost:3000
+[2026-03-31T07:20:33.444Z] ✅ MongoDB connected
+[2026-03-31T07:20:43.727Z] Server running on http://localhost:3000
+[2026-03-31T07:20:43.744Z] ✅ MongoDB connected
+[2026-03-31T07:20:45.039Z] Server running on http://localhost:3000
+[2026-03-31T07:20:45.057Z] ✅ MongoDB connected
+[2026-03-31T07:20:50.908Z] Server running on http://localhost:3000
+[2026-03-31T07:20:50.924Z] ✅ MongoDB connected
+[2026-03-31T07:20:54.278Z] Server running on http://localhost:3000
+[2026-03-31T07:20:54.295Z] ✅ MongoDB connected
+[2026-03-31T07:20:58.932Z] Server running on http://localhost:3000
+[2026-03-31T07:20:58.952Z] ✅ MongoDB connected
+[2026-03-31T07:21:06.655Z] Server running on http://localhost:3000
+[2026-03-31T07:21:06.671Z] ✅ MongoDB connected
+[2026-03-31T07:21:13.400Z] Server running on http://localhost:3000
+[2026-03-31T07:21:13.415Z] ✅ MongoDB connected
+[2026-03-31T07:21:17.235Z] Server running on http://localhost:3000
+[2026-03-31T07:21:17.251Z] ✅ MongoDB connected
+[2026-03-31T07:21:31.903Z] 🚀 Automation triggered via API
+[2026-03-31T07:21:31.904Z] 🚀 Automation started
+[2026-03-31T07:21:31.905Z] ⏹ Automation Event Started
+[2026-03-31T07:21:31.907Z] ❌ Automation failed: fs is not defined
+[2026-03-31T07:22:13.840Z] Server running on http://localhost:3000
+[2026-03-31T07:22:13.854Z] ✅ MongoDB connected
+[2026-03-31T07:22:16.159Z] Server running on http://localhost:3000
+[2026-03-31T07:22:16.172Z] ✅ MongoDB connected
+[2026-03-31T07:22:34.960Z] 🚀 Automation triggered via API
+[2026-03-31T07:22:34.961Z] 🚀 Automation started
+[2026-03-31T07:22:34.962Z] ⏹ Automation Event Started
+[2026-03-31T07:22:35.461Z] Captcha image (Base64):
+[2026-03-31T07:22:35.811Z] Bill fetched:
+[2026-03-31T07:22:35.812Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-31T07:22:37.547Z] ✅ Transaction updated: undefined
+[2026-03-31T07:22:37.620Z] Captcha image (Base64):
+[2026-03-31T07:22:37.702Z] Bill fetched:
+[2026-03-31T07:22:37.703Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-31T07:22:39.785Z] ✅ Transaction updated: undefined
+[2026-03-31T07:22:39.867Z] Captcha image (Base64):
+[2026-03-31T07:22:39.951Z] Bill fetched:
+[2026-03-31T07:22:39.951Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-31T07:22:41.730Z] ✅ Transaction updated: undefined
+[2026-03-31T07:22:41.796Z] Captcha image (Base64):
+[2026-03-31T07:22:41.880Z] Bill fetched:
+[2026-03-31T07:22:41.881Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-31T07:22:43.271Z] ✅ Transaction updated: undefined
+[2026-03-31T07:22:43.349Z] Captcha image (Base64):
+[2026-03-31T07:22:43.428Z] Bill fetched:
+[2026-03-31T07:22:43.429Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-31T07:22:45.637Z] ✅ Transaction updated: undefined
+[2026-03-31T07:22:45.725Z] Captcha image (Base64):
+[2026-03-31T07:22:45.840Z] Bill fetched:
+[2026-03-31T07:22:45.841Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-31T07:22:48.031Z] ✅ Transaction updated: undefined
+[2026-03-31T07:22:48.125Z] Captcha image (Base64):
+[2026-03-31T07:22:48.245Z] Bill fetched:
+[2026-03-31T07:22:48.246Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-31T07:22:49.965Z] ✅ Transaction updated: undefined
+[2026-03-31T07:22:50.171Z] Captcha image (Base64):
+[2026-03-31T07:22:50.249Z] Bill fetched:
+[2026-03-31T07:22:50.250Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-31T07:22:51.366Z] ✅ Transaction updated: undefined
+[2026-03-31T07:22:51.570Z] Captcha image (Base64):
+[2026-03-31T07:22:51.652Z] Bill fetched:
+[2026-03-31T07:22:51.653Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-31T07:22:53.470Z] ✅ Transaction updated: undefined
+[2026-03-31T07:22:53.672Z] Captcha image (Base64):
+[2026-03-31T07:22:53.752Z] Bill fetched:
+[2026-03-31T07:22:53.752Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-31T07:22:55.194Z] ✅ Transaction updated: undefined
+[2026-03-31T07:22:55.261Z] Captcha image (Base64):
+[2026-03-31T07:22:55.340Z] Bill fetched:
+[2026-03-31T07:22:55.340Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-31T07:22:57.012Z] ✅ Transaction updated: undefined
+[2026-03-31T07:22:57.080Z] Captcha image (Base64):
+[2026-03-31T07:22:57.157Z] Bill fetched:
+[2026-03-31T07:22:57.158Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-31T07:22:59.670Z] ✅ Transaction updated: undefined
+[2026-03-31T07:22:59.735Z] Captcha image (Base64):
+[2026-03-31T07:22:59.815Z] Bill fetched:
+[2026-03-31T07:22:59.816Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-31T07:23:01.781Z] ✅ Transaction updated: undefined
+[2026-03-31T07:23:01.847Z] Captcha image (Base64):
+[2026-03-31T07:23:01.925Z] Bill fetched:
+[2026-03-31T07:23:01.925Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-31T07:23:03.976Z] ✅ Transaction updated: undefined
+[2026-03-31T07:23:04.043Z] Captcha image (Base64):
+[2026-03-31T07:23:04.130Z] Bill fetched:
+[2026-03-31T07:23:04.131Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-31T07:23:05.960Z] ✅ Transaction updated: undefined
+[2026-03-31T07:23:06.029Z] Captcha image (Base64):
+[2026-03-31T07:23:06.113Z] Bill fetched:
+[2026-03-31T07:23:06.113Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-31T07:23:07.472Z] ✅ Transaction updated: undefined
+[2026-03-31T07:23:07.541Z] Captcha image (Base64):
+[2026-03-31T07:23:07.619Z] Bill fetched:
+[2026-03-31T07:23:07.619Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-31T07:23:08.808Z] ✅ Transaction updated: undefined
+[2026-03-31T07:23:08.885Z] Captcha image (Base64):
+[2026-03-31T07:23:08.964Z] Bill fetched:
+[2026-03-31T07:23:08.964Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-31T07:23:10.394Z] ✅ Transaction updated: undefined
+[2026-03-31T07:23:10.462Z] Captcha image (Base64):
+[2026-03-31T07:23:10.542Z] Bill fetched:
+[2026-03-31T07:23:10.542Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-31T07:23:12.105Z] ✅ Transaction updated: undefined
+[2026-03-31T07:23:12.171Z] Captcha image (Base64):
+[2026-03-31T07:23:12.251Z] Bill fetched:
+[2026-03-31T07:23:12.251Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-31T07:23:13.810Z] ✅ Transaction updated: undefined
+[2026-03-31T07:23:13.877Z] Captcha image (Base64):
+[2026-03-31T07:23:13.964Z] Bill fetched:
+[2026-03-31T07:23:13.965Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-31T07:23:15.082Z] ✅ Transaction updated: undefined
+[2026-03-31T07:23:15.151Z] Captcha image (Base64):
+[2026-03-31T07:23:15.229Z] Bill fetched:
+[2026-03-31T07:23:15.229Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-31T07:23:16.551Z] ✅ Transaction updated: undefined
+[2026-03-31T07:23:16.620Z] Captcha image (Base64):
+[2026-03-31T07:23:16.698Z] Bill fetched:
+[2026-03-31T07:23:16.699Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-31T07:23:18.475Z] ✅ Transaction updated: undefined
+[2026-03-31T07:23:18.542Z] Captcha image (Base64):
+[2026-03-31T07:23:18.621Z] Bill fetched:
+[2026-03-31T07:23:18.622Z] [payment] Redirect detected, fetching redirected URL
+[2026-03-31T07:23:20.242Z] ✅ Transaction updated: undefined
+[2026-03-31T07:23:20.243Z] ✅ All rows processed
+[2026-03-31T07:23:20.243Z] 🏁 Automation completed
+[2026-03-31T07:26:10.697Z] Server running on http://localhost:3000
+[2026-03-31T07:26:10.711Z] ✅ MongoDB connected
+[2026-03-31T07:26:15.339Z] Server running on http://localhost:3000
+[2026-03-31T07:26:15.355Z] ✅ MongoDB connected
+[2026-03-31T07:26:27.179Z] Server running on http://localhost:3000
+[2026-03-31T07:26:27.193Z] ✅ MongoDB connected
+[2026-03-31T07:26:28.836Z] Server running on http://localhost:3000
+[2026-03-31T07:26:28.849Z] ✅ MongoDB connected
+[2026-03-31T07:30:21.625Z] Server running on http://localhost:3000
+[2026-03-31T07:30:21.640Z] ✅ MongoDB connected
